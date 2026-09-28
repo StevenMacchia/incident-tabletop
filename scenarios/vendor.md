@@ -4,7 +4,7 @@
 
 > A typhoon takes your moderation vendor's main site offline. 60% of your reviewers are gone for a week and reports of harassment, hate and graphic content are piling up.
 
-_This scenario has 8 tailored versions, one per company type. The version below is written for social media & video companies; [play the others live](https://stevenmacchia.github.io/ts-workbench/#tabletop)._
+_This scenario has 8 tailored versions, one per company type. The version below is written for social media & video companies; [play the others live](https://stevenmacchia.com/ts-workbench/#tabletop)._
 
 ## Decision 1 · Mon 07:00: Your vendor goes dark
 

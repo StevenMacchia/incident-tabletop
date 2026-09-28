@@ -4,7 +4,7 @@
 
 37 crisis scenarios across 8 types of company. Make four timed decisions as each incident unfolds. Every weaker choice shows what happens next, what strong incident command looks like, and the law behind it. Play solo, or run it live with your team: roles, a timer for each decision, discussion prompts, a full-screen presenter view, and an after-action report with owned action items you can send to your tracker.
 
-**[Try it live](https://stevenmacchia.github.io/ts-workbench/#tabletop)** · part of [T&S Workbench](https://github.com/stevenmacchia/ts-workbench) · free, no sign-up
+**[Try it live](https://stevenmacchia.com/ts-workbench/#tabletop)** · part of [T&S Workbench](https://github.com/stevenmacchia/ts-workbench) · free, no sign-up
 
 ![Incident Tabletop](assets/tabletop-play.png)
 

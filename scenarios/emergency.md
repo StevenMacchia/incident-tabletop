@@ -4,7 +4,7 @@
 
 > Late on a Saturday, a teenager posts that they will end their life tonight, in a post seen only by a few friends. Police then call asking for data without a warrant.
 
-_This scenario has 8 tailored versions, one per company type. The version below is written for social media & video companies; [play the others live](https://stevenmacchia.github.io/ts-workbench/#tabletop)._
+_This scenario has 8 tailored versions, one per company type. The version below is written for social media & video companies; [play the others live](https://stevenmacchia.com/ts-workbench/#tabletop)._
 
 ## Decision 1 · Sat 23:10: A report of imminent risk
 

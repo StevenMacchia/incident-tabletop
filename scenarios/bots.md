@@ -4,7 +4,7 @@
 
 > 40,000 fake accounts sign up overnight to push coordinated political spam.
 
-_This scenario has 8 tailored versions, one per company type. The version below is written for social media & video companies; [play the others live](https://stevenmacchia.github.io/ts-workbench/#tabletop)._
+_This scenario has 8 tailored versions, one per company type. The version below is written for social media & video companies; [play the others live](https://stevenmacchia.com/ts-workbench/#tabletop)._
 
 ## Decision 1 · Tue 02:00: A sign-up spike
 

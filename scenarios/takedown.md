@@ -4,7 +4,7 @@
 
 > A government orders you to remove posts by journalists criticizing a government minister within 24 hours, citing a vague national security law.
 
-_This scenario has 8 tailored versions, one per company type. The version below is written for social media & video companies; [play the others live](https://stevenmacchia.github.io/ts-workbench/#tabletop)._
+_This scenario has 8 tailored versions, one per company type. The version below is written for social media & video companies; [play the others live](https://stevenmacchia.com/ts-workbench/#tabletop)._
 
 ## Decision 1 · Tue 09:00: An official order arrives
 

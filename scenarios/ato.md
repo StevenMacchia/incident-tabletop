@@ -4,7 +4,7 @@
 
 > Attackers use leaked passwords to break into creator accounts with large followings. Their goal: posting crypto scams to millions of followers.
 
-_This scenario has 8 tailored versions, one per company type. The version below is written for social media & video companies; [play the others live](https://stevenmacchia.github.io/ts-workbench/#tabletop)._
+_This scenario has 8 tailored versions, one per company type. The version below is written for social media & video companies; [play the others live](https://stevenmacchia.com/ts-workbench/#tabletop)._
 
 ## Decision 1 · Mon 06:40: Login failures spike
 

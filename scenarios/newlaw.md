@@ -4,7 +4,7 @@
 
 > You launch in a market covered by the UK Online Safety Act's children's safety duties in 90 days, and nobody has started on compliance.
 
-_This scenario has 8 tailored versions, one per company type. The version below is written for social media & video companies; [play the others live](https://stevenmacchia.github.io/ts-workbench/#tabletop)._
+_This scenario has 8 tailored versions, one per company type. The version below is written for social media & video companies; [play the others live](https://stevenmacchia.com/ts-workbench/#tabletop)._
 
 ## Decision 1 · Day 1: 90 days to comply
 

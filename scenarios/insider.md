@@ -4,7 +4,7 @@
 
 > A contractor on your review team has been looking up private messages and location history for people who were never in a review queue.
 
-_This scenario has 8 tailored versions, one per company type. The version below is written for social media & video companies; [play the others live](https://stevenmacchia.github.io/ts-workbench/#tabletop)._
+_This scenario has 8 tailored versions, one per company type. The version below is written for social media & video companies; [play the others live](https://stevenmacchia.com/ts-workbench/#tabletop)._
 
 ## Decision 1 · Wed 14:00: A tip from inside
 

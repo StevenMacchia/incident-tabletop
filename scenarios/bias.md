@@ -4,7 +4,7 @@
 
 > A journalist's analysis suggests Black creators discussing racism are three times more likely to have posts removed as hate speech.
 
-_This scenario has 8 tailored versions, one per company type. The version below is written for social media & video companies; [play the others live](https://stevenmacchia.github.io/ts-workbench/#tabletop)._
+_This scenario has 8 tailored versions, one per company type. The version below is written for social media & video companies; [play the others live](https://stevenmacchia.com/ts-workbench/#tabletop)._
 
 ## Decision 1 · Tue 09:00: A journalist's analysis
 
