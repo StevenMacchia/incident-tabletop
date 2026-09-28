@@ -2,7 +2,7 @@
 
 > **When something goes badly wrong, would your team make the right calls in the right order?**
 
-37 crisis scenarios across 8 types of company. Make four timed decisions as each incident unfolds. Every weaker choice shows what happens next, what strong incident command looks like, and the law behind it.
+37 crisis scenarios across 8 types of company. Make four timed decisions as each incident unfolds. Every weaker choice shows what happens next, what strong incident command looks like, and the law behind it. Play solo, or run it live with your team: roles, a timer for each decision, discussion prompts, a full-screen presenter view, and an after-action report with owned action items you can send to your tracker.
 
 **[Try it live](https://stevenmacchia.github.io/ts-workbench/#tabletop)** · part of [T&S Workbench](https://github.com/stevenmacchia/ts-workbench) · free, no sign-up
 
@@ -35,6 +35,10 @@ The tool's knowledge, published as open content you can read, reuse and adapt.
 - Interview exercises for T&S roles
 
 ## More screenshots
+
+![tabletop-team](assets/tabletop-team.png)
+
+![tabletop-team-debrief](assets/tabletop-team-debrief.png)
 
 ![tabletop](assets/tabletop.png)
 
