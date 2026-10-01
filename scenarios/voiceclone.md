@@ -4,6 +4,10 @@
 
 > Your voice tool was used to clone a teenager's voice for a fake kidnapping call to her parents.
 
+## Why this scenario
+
+Victims told the FBI they lost over $5 million in 2025 to 'distress' scams, where voice cloning mimics a loved one in trouble. Source: [FBI IC3 Annual Report](https://www.ic3.gov/AnnualReport/Reports/2025_IC3Report.pdf), 2026.
+
 ## Decision 1 · Sat 14:00: A fake kidnapping call
 
 Police contact you: a family received a call in their daughter's cloned voice, crying for help, followed by a ransom demand. The clone was made with your tool from a video on her social media.

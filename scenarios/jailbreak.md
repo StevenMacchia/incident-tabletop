@@ -4,6 +4,10 @@
 
 > A prompt that tricks your model into giving weapons instructions is spreading on social media.
 
+## Why this scenario
+
+The UK AI Security Institute, which has studied more than 30 frontier AI systems, reported in December 2025 that it had found universal jailbreaks, which reliably extract policy-violating information, for every system it tested. Source: [UK AI Security Institute](https://www.aisi.gov.uk/frontier-ai-trends-report), 2025.
+
 ## Decision 1 · Wed 09:00: A jailbreak spreads
 
 A prompt that tricks your model into giving detailed instructions for improvised weapons is circulating on social media with screenshots of the output. It's been shared 20,000 times.

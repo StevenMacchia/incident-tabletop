@@ -4,6 +4,10 @@
 
 > A dangerous "challenge" is spreading fast on a Friday evening. Contain it without wrecking your weekend team or silencing the people warning against it.
 
+## Why this scenario
+
+In Ofcom's late-2025 survey, 30% of UK 11-17-year-olds said they had seen content encouraging them to do dangerous stunts and challenges in the previous four weeks. Source: [Ofcom, Children's Online Experiences](https://www.ofcom.org.uk/siteassets/resources/documents/online-safety/research-statistics-and-data/protecting-children/childrens-online-experiences-research-report.pdf), 2026.
+
 ## Decision 1 · Fri 18:40: On-call flags a fast-growing trend
 
 On-call reviewers have seen 40 videos in two hours showing teens holding their breath until they nearly pass out. The hashtag is growing about 300% an hour. A news site abroad has reported a hospitalization linked to it. Your dangerous-acts policy covers this, but nobody has formally classified the trend.

@@ -4,6 +4,13 @@
 
 > 40,000 new accounts appear overnight and start pushing the same political line. Stop the inflow, find the real people among them, and fix the growth numbers they inflated.
 
+## Why this scenario
+
+Between April 2024 and April 2025, Microsoft blocked about 1.6 million bot sign-up attempts per hour across its services. Source: [Microsoft Cyber Signals](https://www.microsoft.com/en-us/security/blog/2025/04/16/cyber-signals-issue-9-ai-powered-deception-emerging-fraud-threats-and-countermeasures/), 2025.
+
+- **Social media & video:** Meta took action on 1.1 billion fake Facebook accounts in Q4 2025, up from 692 million in Q3, and estimates fake accounts were about 5% of Facebook's worldwide daily active people in Q4 2025. Source: [Meta, EU disinformation code report](https://disinfocode.eu/reports/meta/8?commitmentId=388&chapterId=80), 2026.
+- **Dating:** Match Group's dating apps in the EU banned or suspended 6,962,890 spam, inauthentic and ineligible accounts in 2025, 94% detected proactively, with about 18 million monthly users in the region. Source: [Match Group, EU DSA transparency report](https://cdn.prod.website-files.com/67c577f5d5cf176437c09b66/69a37a67639b2e8238609323_MG-DSA%20Safe%20Dating%20Report%20-%202025%20-%20FINAL.pdf), 2026.
+
 _This scenario has 8 tailored versions, one per company type. The version below is written for social media & video companies; [play the others live](https://stevenmacchia.com/ts-workbench/#tabletop)._
 
 ## Decision 1 · Tue 02:00: A sign-up spike

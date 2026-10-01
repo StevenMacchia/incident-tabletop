@@ -4,6 +4,10 @@
 
 > A luxury brand's lawyers demand that 1,400 listings come down in 48 hours, days before your biggest sales event.
 
+## Why this scenario
+
+The OECD and EUIPO estimate that trade in counterfeit goods was worth about USD 467 billion in 2021, or 2.3% of global imports. This is their latest estimate, published in 2025. Source: [OECD and EUIPO, Mapping Global Trade in Fakes](https://www.oecd.org/content/dam/oecd/en/publications/reports/2025/05/mapping-global-trade-in-fakes-2025_5c812e3c/94d3b29f-en.pdf), 2025.
+
 ## Decision 1 · Mon 09:00: A brand's legal team sends a demand
 
 A luxury brand has listed 1,400 listings it says are counterfeit and threatens to sue if they aren't removed in 48 hours. Your Black Friday sale starts Thursday. Spot checks suggest about 70% are clear fakes; the rest are genuine resale or unclear.

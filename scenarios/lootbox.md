@@ -4,6 +4,10 @@
 
 > A 12-year-old spends $3,000 on loot boxes in two weeks, the parent's post goes viral, and a regulator starts asking questions.
 
+## Why this scenario
+
+In January 2025 a popular game's maker agreed to pay $20 million and block under-16s from in-game purchases without parental consent, settling FTC allegations it deceived children about in-game costs and rare-prize odds. Source: [US Federal Trade Commission](https://www.ftc.gov/news-events/news/press-releases/2025/01/genshin-impact-game-developer-will-be-banned-selling-lootboxes-teens-under-16-without-parental), 2025.
+
 ## Decision 1 · Mon 09:00: A parent's complaint
 
 A parent's card statement shows their 12-year-old spent $3,000 on randomized item packs in two weeks, using a saved card. The parent posts it online and it goes viral.

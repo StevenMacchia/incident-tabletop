@@ -4,6 +4,10 @@
 
 > A guest finds a hidden camera in a rental bedroom and posts the video. It has millions of views, and the host has 40 other listings.
 
+## Why this scenario
+
+In May 2025 a US House Oversight subcommittee held a hearing on covert surveillance in private spaces. It said these include hotel rooms and short-term rentals. Source: [US House Oversight Committee](https://oversight.house.gov/release/hearing-wrap-up-action-needed-to-prevent-covert-surveillance-in-private-spaces), 2025.
+
 ## Decision 1 · Sun 14:00: A viral video
 
 A guest posts a video of a camera hidden in a smoke detector in the bedroom of a listing. It has 3 million views. The host has 40 other listings.

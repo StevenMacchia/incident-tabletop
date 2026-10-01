@@ -5,6 +5,12 @@
       "social",
       "kids"
     ],
+    "evidence": {
+      "claim": "In Ofcom's late-2025 survey, 30% of UK 11-17-year-olds said they had seen content encouraging them to do dangerous stunts and challenges in the previous four weeks.",
+      "source": "Ofcom, Children's Online Experiences",
+      "url": "https://www.ofcom.org.uk/siteassets/resources/documents/online-safety/research-statistics-and-data/protecting-children/childrens-online-experiences-research-report.pdf",
+      "published": "2026-05"
+    },
     "versions": [
       {
         "company_type": "social",
@@ -185,6 +191,12 @@
     "company_types": [
       "social"
     ],
+    "evidence": {
+      "claim": "In February 2026 the European Commission preliminarily found a major video platform in breach of the EU Digital Services Act over addictive design, including its personalised recommender system; confirmed breaches can bring fines up to 6% of worldwide annual turnover.",
+      "source": "European Commission",
+      "url": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_312",
+      "published": "2026-02"
+    },
     "versions": [
       {
         "company_type": "social",
@@ -365,6 +377,12 @@
     "company_types": [
       "social"
     ],
+    "evidence": {
+      "claim": "The Oversight Board reported in 2022 that, under a major social network's cross-check program for high-profile users, decisions on flagged content took about 12 days on average for US users; one item waited 222 days.",
+      "source": "Oversight Board",
+      "url": "https://www.oversightboard.com/wp-content/uploads/2026/03/512630074120983.pdf",
+      "published": "2022-12"
+    },
     "versions": [
       {
         "company_type": "social",
@@ -544,6 +562,12 @@
     "company_types": [
       "marketplace"
     ],
+    "evidence": {
+      "claim": "The OECD and EUIPO estimate that trade in counterfeit goods was worth about USD 467 billion in 2021, or 2.3% of global imports. This is their latest estimate, published in 2025.",
+      "source": "OECD and EUIPO, Mapping Global Trade in Fakes",
+      "url": "https://www.oecd.org/content/dam/oecd/en/publications/reports/2025/05/mapping-global-trade-in-fakes-2025_5c812e3c/94d3b29f-en.pdf",
+      "published": "2025-05"
+    },
     "versions": [
       {
         "company_type": "marketplace",
@@ -731,6 +755,12 @@
     "company_types": [
       "marketplace"
     ],
+    "evidence": {
+      "claim": "Purchase scams, where buyers pay for goods that never arrive, made up 71% of all authorised push payment scam cases UK banks reported in 2025, with record losses of £118.1 million.",
+      "source": "UK Finance Annual Fraud Report",
+      "url": "https://www.ukfinance.org.uk/system/files/2026-06/UK%20Finance%20Fraud%20Report%202026.pdf",
+      "published": "2026-06"
+    },
     "versions": [
       {
         "company_type": "marketplace",
@@ -917,6 +947,12 @@
     "company_types": [
       "fintech"
     ],
+    "evidence": {
+      "claim": "UK banks and payment firms surveyed by the Financial Conduct Authority closed the accounts of 238,396 suspected money mules in 2025, up from 184,935 in 2023; 85,425 were customers aged 25 and under.",
+      "source": "UK Financial Conduct Authority",
+      "url": "https://www.fca.org.uk/news/press-releases/firms-crack-down-money-mules-need-do-more",
+      "published": "2026-09"
+    },
     "versions": [
       {
         "company_type": "fintech",
@@ -1104,6 +1140,12 @@
     "company_types": [
       "fintech"
     ],
+    "evidence": {
+      "claim": "Americans reported losing nearly $1 billion to business impersonators in 2025, with bank impersonators causing the highest losses. The FTC says the costliest impersonation scams often start with a fake security alert from a bank.",
+      "source": "US Federal Trade Commission",
+      "url": "https://www.ftc.gov/news-events/news/press-releases/2026/06/ftc-data-show-people-reported-losing-3-point-5-billion-imposter-scams-2025",
+      "published": "2026-06"
+    },
     "versions": [
       {
         "company_type": "fintech",
@@ -1292,6 +1334,12 @@
       "gaming",
       "kids"
     ],
+    "evidence": {
+      "claim": "In a 2024 Thorn survey of 1,200 US 13-20-year-olds, 1 in 4 said that while under 18 they had been asked online for a sexual image or interaction in exchange for something of value.",
+      "source": "Thorn, Commodified Sexual Interactions Involving Minors",
+      "url": "https://info.thorn.org/hubfs/Research/Thorn_CommodifiedSexualInteractionsInvolvingMinors_Apr2025.pdf",
+      "published": "2025-04"
+    },
     "versions": [
       {
         "company_type": "gaming",
@@ -1481,6 +1529,12 @@
       "gaming",
       "social"
     ],
+    "evidence": {
+      "claim": "A California teenager sentenced in February 2025 made over 375 swatting and threat calls between August 2022 and January 2024 and advertised swatting-for-a-fee on social media, the US Justice Department said.",
+      "source": "US Department of Justice",
+      "url": "https://www.justice.gov/opa/pr/california-teenager-sentenced-48-months-prison-nationwide-swatting-spree",
+      "published": "2025-02"
+    },
     "versions": [
       {
         "company_type": "gaming",
@@ -1668,6 +1722,12 @@
     "company_types": [
       "dating"
     ],
+    "evidence": {
+      "claim": "A peer-reviewed study of 3,413 sexual assault forensic exam records from one US state (2017-2020) found that assaults after a dating-app meeting made up 8.02% of all cases and 13.92% of acquaintance assaults.",
+      "source": "Journal of Interpersonal Violence",
+      "url": "https://doi.org/10.1177/08862605221130390",
+      "published": "2022-10"
+    },
     "versions": [
       {
         "company_type": "dating",
@@ -1855,6 +1915,12 @@
     "company_types": [
       "dating"
     ],
+    "evidence": {
+      "claim": "Cryptocurrency investment fraud cost Americans $7.2 billion in 2025, the largest source of losses the FBI recorded. Scammers often make first contact through dating apps or social media, then move victims to messaging apps.",
+      "source": "FBI IC3 Annual Report",
+      "url": "https://www.ic3.gov/AnnualReport/Reports/2025_IC3Report.pdf",
+      "published": "2026-04"
+    },
     "versions": [
       {
         "company_type": "dating",
@@ -2042,6 +2108,12 @@
     "company_types": [
       "genai"
     ],
+    "evidence": {
+      "claim": "OpenAI estimated that in the month before the 2024 US presidential election, ChatGPT rejected over 250,000 requests to generate DALL-E images of the presidential and vice-presidential candidates and President Biden.",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/how-openai-is-approaching-2024-worldwide-elections/",
+      "published": "2024-11"
+    },
     "versions": [
       {
         "company_type": "genai",
@@ -2230,6 +2302,12 @@
       "genai",
       "kids"
     ],
+    "evidence": {
+      "claim": "In Thorn's late-2025 survey of US 9-17-year-olds, 1 in 9 of those who had used an AI chatbot or companion said they had used it for flirty, romantic or sexual conversations.",
+      "source": "Thorn, Youth Perspectives on Online Safety",
+      "url": "https://info.thorn.org/hubfs/Research/Thorn_2025YouthPerspectives_Report.pdf",
+      "published": "2026-07"
+    },
     "versions": [
       {
         "company_type": "genai",
@@ -2418,6 +2496,12 @@
     "company_types": [
       "gig"
     ],
+    "evidence": {
+      "claim": "The UK Home Office said in July 2025 that delivery platforms' crackdown on illegal account sharing had already led to thousands being offboarded. It also announced a deal for the platforms to detect shared accounts and suspend them faster.",
+      "source": "UK Home Office",
+      "url": "https://www.gov.uk/government/news/new-operational-partnership-with-delivery-giants-to-combat-illegal-working",
+      "published": "2025-07"
+    },
     "versions": [
       {
         "company_type": "gig",
@@ -2604,6 +2688,12 @@
     "company_types": [
       "gig"
     ],
+    "evidence": {
+      "claim": "In May 2025 a US House Oversight subcommittee held a hearing on covert surveillance in private spaces. It said these include hotel rooms and short-term rentals.",
+      "source": "US House Oversight Committee",
+      "url": "https://oversight.house.gov/release/hearing-wrap-up-action-needed-to-prevent-covert-surveillance-in-private-spaces",
+      "published": "2025-05"
+    },
     "versions": [
       {
         "company_type": "gig",
@@ -2790,6 +2880,12 @@
     "company_types": [
       "kids"
     ],
+    "evidence": {
+      "claim": "In Thorn's late-2025 survey of US 9-17-year-olds, roughly 1 in 6 (16%) said they had been sent or shown another minor's nude image without that person's consent.",
+      "source": "Thorn, Youth Perspectives on Online Safety",
+      "url": "https://info.thorn.org/hubfs/Research/Thorn_2025YouthPerspectives_Report.pdf",
+      "published": "2026-07"
+    },
     "versions": [
       {
         "company_type": "kids",
@@ -2979,6 +3075,12 @@
       "kids",
       "social"
     ],
+    "evidence": {
+      "claim": "Meta reported that in 2025 its specialist teams removed nearly 135,000 Instagram accounts for leaving sexualized comments on, or requesting sexual images from, adult-managed accounts featuring children under 13.",
+      "source": "Meta newsroom",
+      "url": "https://about.fb.com/news/2025/07/expanding-teen-account-protections-child-safety-features/",
+      "published": "2025-07"
+    },
     "versions": [
       {
         "company_type": "kids",
@@ -3173,6 +3275,26 @@
       "gig",
       "kids"
     ],
+    "evidence": {
+      "claim": "In June 2025 the UK's data regulator fined a genetic-testing firm £2.31 million after a credential-stuffing attack, using passwords stolen in unrelated breaches, exposed data on 155,592 UK residents.",
+      "source": "UK Information Commissioner's Office",
+      "url": "https://ico.org.uk/about-the-ico/media-centre/news-and-blogs/2025/06/23andme-fined-for-failing-to-protect-uk-users-genetic-data/",
+      "published": "2025-06",
+      "byType": {
+        "fintech": {
+          "claim": "The FBI logged about 4,700 account takeover complaints with $359.7 million in losses in 2025. It says a single takeover can send 50 or more transfers to accounts at several banks at the same time.",
+          "source": "FBI IC3 Annual Report",
+          "url": "https://www.ic3.gov/AnnualReport/Reports/2025_IC3Report.pdf",
+          "published": "2026-04"
+        },
+        "marketplace": {
+          "claim": "UK fraud-prevention body Cifas recorded more than 78,000 account takeover cases in 2025, up 6% on 2024. Online retail accounts were the second most-targeted product, after mobile phones.",
+          "source": "Cifas, Fraudscape",
+          "url": "https://www.cifas.org.uk/newsroom/fraudscape2026",
+          "published": "2026-03"
+        }
+      }
+    },
     "versions": [
       {
         "company_type": "social",
@@ -5124,6 +5246,20 @@
       "gig",
       "kids"
     ],
+    "evidence": {
+      "claim": "In 2023 the FTC charged a home security camera company with letting any employee or contractor access customers' private videos; one employee viewed thousands of recordings from bedrooms and bathrooms. The order required $5.8 million in refunds.",
+      "source": "US Federal Trade Commission",
+      "url": "https://www.ftc.gov/news-events/news/press-releases/2023/05/ftc-says-ring-employees-illegally-surveilled-customers-failed-stop-hackers-taking-control-users",
+      "published": "2023-05",
+      "byType": {
+        "fintech": {
+          "claim": "In May 2025 a major US crypto exchange disclosed that criminals had paid support contractors and employees outside the US to pull customer data from internal systems; it estimated costs of $180 million to $400 million.",
+          "source": "Coinbase SEC filing",
+          "url": "https://www.sec.gov/Archives/edgar/data/1679788/000167978825000094/coin-20250514.htm",
+          "published": "2025-05"
+        }
+      }
+    },
     "versions": [
       {
         "company_type": "social",
@@ -7083,6 +7219,12 @@
       "gig",
       "kids"
     ],
+    "evidence": {
+      "claim": "In the second half of 2025, Snapchat received 3,081 emergency disclosure requests from US law enforcement and produced some data in 67.7% of them.",
+      "source": "Snap transparency report",
+      "url": "https://values.snap.com/privacy/transparency/legal-requests-h2-2025",
+      "published": "2026"
+    },
     "versions": [
       {
         "company_type": "social",
@@ -8890,6 +9032,26 @@
       "gig",
       "kids"
     ],
+    "evidence": {
+      "claim": "Between April 2024 and April 2025, Microsoft blocked about 1.6 million bot sign-up attempts per hour across its services.",
+      "source": "Microsoft Cyber Signals",
+      "url": "https://www.microsoft.com/en-us/security/blog/2025/04/16/cyber-signals-issue-9-ai-powered-deception-emerging-fraud-threats-and-countermeasures/",
+      "published": "2025-04",
+      "byType": {
+        "social": {
+          "claim": "Meta took action on 1.1 billion fake Facebook accounts in Q4 2025, up from 692 million in Q3, and estimates fake accounts were about 5% of Facebook's worldwide daily active people in Q4 2025.",
+          "source": "Meta, EU disinformation code report",
+          "url": "https://disinfocode.eu/reports/meta/8?commitmentId=388&chapterId=80",
+          "published": "2026-03"
+        },
+        "dating": {
+          "claim": "Match Group's dating apps in the EU banned or suspended 6,962,890 spam, inauthentic and ineligible accounts in 2025, 94% detected proactively, with about 18 million monthly users in the region.",
+          "source": "Match Group, EU DSA transparency report",
+          "url": "https://cdn.prod.website-files.com/67c577f5d5cf176437c09b66/69a37a67639b2e8238609323_MG-DSA%20Safe%20Dating%20Report%20-%202025%20-%20FINAL.pdf",
+          "published": "2026-02"
+        }
+      }
+    },
     "versions": [
       {
         "company_type": "social",
@@ -10841,6 +11003,20 @@
       "gig",
       "kids"
     ],
+    "evidence": {
+      "claim": "When the pandemic cut human review capacity in 2020, YouTube relied on automated systems: removals more than doubled versus the prior quarter, and the share of appealed videos reinstated rose from 25% to 50%.",
+      "source": "YouTube Official Blog",
+      "url": "https://blog.youtube/inside-youtube/responsible-policy-enforcement-during-covid-19/",
+      "published": "2020-08",
+      "byType": {
+        "social": {
+          "claim": "Meta reported that after sending content reviewers home in March 2020, it took action on fewer pieces of suicide and self-injury content on Facebook and Instagram, and less child nudity and sexual exploitation on Instagram.",
+          "source": "Meta Community Standards Enforcement Report",
+          "url": "https://about.fb.com/news/2020/08/community-standards-enforcement-report-aug-2020/",
+          "published": "2020-08"
+        }
+      }
+    },
     "versions": [
       {
         "company_type": "social",
@@ -12720,6 +12896,32 @@
       "gig",
       "kids"
     ],
+    "evidence": {
+      "claim": "NIST's test of 189 face recognition algorithms from 99 developers found higher false-positive rates for Asian and African American faces in one-to-one matching, often by a factor of 10 to 100, depending on the algorithm.",
+      "source": "NIST face recognition test",
+      "url": "https://www.nist.gov/news-events/news/2019/12/nist-study-evaluates-effects-race-age-sex-face-recognition-software",
+      "published": "2019-12",
+      "byType": {
+        "social": {
+          "claim": "A 2019 peer-reviewed study found that hate speech detection models labeled tweets written in African American English, and tweets by self-identified African Americans, as offensive up to two times more often than others.",
+          "source": "ACL 2019, Sap et al.",
+          "url": "https://aclanthology.org/P19-1163/",
+          "published": "2019-07"
+        },
+        "genai": {
+          "claim": "A 2025 peer-reviewed study found that reward models used to align large language models were 4% less accurate on average with African American Language than with White Mainstream English, and often dispreferred AAL texts.",
+          "source": "NAACL Findings 2025, Mire et al.",
+          "url": "https://aclanthology.org/2025.findings-naacl.417/",
+          "published": "2025"
+        },
+        "gig": {
+          "claim": "In 2024 the UK's equality regulator announced a financial settlement for a food delivery courier who alleged racially discriminatory facial recognition checks; he had been removed from the platform after a failed check and an automated process.",
+          "source": "UK Equality and Human Rights Commission",
+          "url": "https://www.equalityhumanrights.com/news/news/uber-eats-courier-wins-payout-help-equality-watchdog-after-facing-problematic-ai-checks",
+          "published": "2024-03"
+        }
+      }
+    },
     "versions": [
       {
         "company_type": "social",
@@ -14592,6 +14794,12 @@
     "company_types": [
       "marketplace"
     ],
+    "evidence": {
+      "claim": "In 2025 the EU's eSurveillance web crawler scanned over 1.6 million websites and found more than 20,800 products for sale online that were already listed as dangerous in the EU Safety Gate alert system.",
+      "source": "European Commission, Safety Gate report",
+      "url": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_537",
+      "published": "2026-03"
+    },
     "versions": [
       {
         "company_type": "marketplace",
@@ -14778,6 +14986,12 @@
     "company_types": [
       "marketplace"
     ],
+    "evidence": {
+      "claim": "In December 2025 the FTC warned 10 companies about possible violations of its Consumer Review Rule on deceptive reviews. Each violation can bring a civil penalty of up to $53,088.",
+      "source": "US Federal Trade Commission",
+      "url": "https://www.ftc.gov/news-events/news/press-releases/2025/12/ftc-warns-10-companies-about-possible-violations-agencys-new-consumer-review-rule",
+      "published": "2025-12"
+    },
     "versions": [
       {
         "company_type": "marketplace",
@@ -14964,6 +15178,12 @@
     "company_types": [
       "fintech"
     ],
+    "evidence": {
+      "claim": "In September 2025, OFAC settled with a crypto exchange that had no program to screen users or transactions for sanctions links. It had made 17,183 exchanges worth $12,570,956 with users in sanctioned countries.",
+      "source": "US Treasury, OFAC enforcement release",
+      "url": "https://ofac.treasury.gov/media/934641/download?inline=",
+      "published": "2025-09"
+    },
     "versions": [
       {
         "company_type": "fintech",
@@ -15150,6 +15370,12 @@
     "company_types": [
       "fintech"
     ],
+    "evidence": {
+      "claim": "US financial institutions filed 155,415 elder financial exploitation reports in one year (June 2022 to June 2023), covering roughly $27 billion in suspicious activity. About 20% involved theft by a trusted person, FinCEN found.",
+      "source": "FinCEN, elder financial exploitation analysis",
+      "url": "https://www.fincen.gov/news/news-releases/fincen-issues-analysis-elder-financial-exploitation",
+      "published": "2024-04"
+    },
     "versions": [
       {
         "company_type": "fintech",
@@ -15337,6 +15563,12 @@
     "company_types": [
       "gaming"
     ],
+    "evidence": {
+      "claim": "In a November 2025 action on gaming and gaming-related platforms, Europol and eight countries referred about 5,408 jihadist and 1,070 violent right-wing extremist links; Europol says perpetrators re-enact terrorist attacks and school shootings in 3D gameplay.",
+      "source": "Europol",
+      "url": "https://www.europol.europa.eu/media-press/newsroom/news/europol-and-partner-countries-combat-online-radicalisation-gaming-platforms",
+      "published": "2025-11"
+    },
     "versions": [
       {
         "company_type": "gaming",
@@ -15523,6 +15755,12 @@
     "company_types": [
       "gaming"
     ],
+    "evidence": {
+      "claim": "In January 2025 a popular game's maker agreed to pay $20 million and block under-16s from in-game purchases without parental consent, settling FTC allegations it deceived children about in-game costs and rare-prize odds.",
+      "source": "US Federal Trade Commission",
+      "url": "https://www.ftc.gov/news-events/news/press-releases/2025/01/genshin-impact-game-developer-will-be-banned-selling-lootboxes-teens-under-16-without-parental",
+      "published": "2025-01"
+    },
     "versions": [
       {
         "company_type": "gaming",
@@ -15710,6 +15948,12 @@
     "company_types": [
       "dating"
     ],
+    "evidence": {
+      "claim": "In Thorn's late-2025 survey of US 9-17-year-olds, about 1 in 6 (16%) said they had used a dating app, though these apps are built for adults.",
+      "source": "Thorn, Youth Perspectives on Online Safety",
+      "url": "https://info.thorn.org/hubfs/Research/Thorn_2025YouthPerspectives_Report.pdf",
+      "published": "2026-07"
+    },
     "versions": [
       {
         "company_type": "dating",
@@ -15897,6 +16141,12 @@
     "company_types": [
       "dating"
     ],
+    "evidence": {
+      "claim": "Peer-reviewed security researchers who tested 15 location-based dating apps found that 6 of them let someone pinpoint a user's exact location (USENIX Security 2024).",
+      "source": "USENIX Security Symposium",
+      "url": "https://www.usenix.org/conference/usenixsecurity24/presentation/dhondt",
+      "published": "2024-08"
+    },
     "versions": [
       {
         "company_type": "dating",
@@ -16083,6 +16333,12 @@
     "company_types": [
       "genai"
     ],
+    "evidence": {
+      "claim": "The UK AI Security Institute, which has studied more than 30 frontier AI systems, reported in December 2025 that it had found universal jailbreaks, which reliably extract policy-violating information, for every system it tested.",
+      "source": "UK AI Security Institute",
+      "url": "https://www.aisi.gov.uk/frontier-ai-trends-report",
+      "published": "2025-12"
+    },
     "versions": [
       {
         "company_type": "genai",
@@ -16269,6 +16525,12 @@
     "company_types": [
       "genai"
     ],
+    "evidence": {
+      "claim": "Victims told the FBI they lost over $5 million in 2025 to 'distress' scams, where voice cloning mimics a loved one in trouble.",
+      "source": "FBI IC3 Annual Report",
+      "url": "https://www.ic3.gov/AnnualReport/Reports/2025_IC3Report.pdf",
+      "published": "2026-04"
+    },
     "versions": [
       {
         "company_type": "genai",
@@ -16455,6 +16717,12 @@
     "company_types": [
       "gig"
     ],
+    "evidence": {
+      "claim": "Airbnb says its anti-party defenses blocked or redirected over 20,000 people from booking entire homes in the US over the July 4 holiday weekend in 2025.",
+      "source": "Airbnb newsroom",
+      "url": "https://news.airbnb.com/airbnbs-anti-party-system-returns-for-july-4-weekend",
+      "published": "2026-06"
+    },
     "versions": [
       {
         "company_type": "gig",
@@ -16641,6 +16909,12 @@
     "company_types": [
       "gig"
     ],
+    "evidence": {
+      "claim": "UK victims made 6,066 reports of holiday fraud to Action Fraud in 2024 and lost £11,183,957. Police advise that a request to pay by bank transfer can be a sign of fraud.",
+      "source": "Action Fraud (City of London Police)",
+      "url": "https://www.atol.org/news-and-blogs/2025/02/24/dont-let-fraudsters-trip-you-up-this-summer-new-alert-issued-as-people-look-to-snap-up-online-holiday-deals/",
+      "published": "2025-02"
+    },
     "versions": [
       {
         "company_type": "gig",
@@ -16834,6 +17108,20 @@
       "gig",
       "kids"
     ],
+    "evidence": {
+      "claim": "Freedom on the Net 2025 found people in at least 57 of 72 countries were arrested or imprisoned for online expression, a record high, and 69% of internet users live where political, social or religious content was blocked.",
+      "source": "Freedom House, Freedom on the Net",
+      "url": "https://freedomhouse.org/sites/default/files/2025-11/Freedom_on_the_Net_2025_Digital.pdf",
+      "published": "2025-11",
+      "byType": {
+        "genai": {
+          "claim": "Freedom House reports that AI governance frameworks in China and Vietnam require generative AI chatbots to follow the Communist Party line on sensitive topics.",
+          "source": "Freedom House, Freedom on the Net",
+          "url": "https://freedomhouse.org/sites/default/files/2025-11/Freedom_on_the_Net_2025_Digital.pdf",
+          "published": "2025-11"
+        }
+      }
+    },
     "versions": [
       {
         "company_type": "social",
@@ -18737,6 +19025,62 @@
       "gig",
       "kids"
     ],
+    "evidence": {
+      "claim": "In 2025, over 45 US states and Puerto Rico introduced more than 300 bills on social media and children, and at least 20 states enacted new laws, according to the National Conference of State Legislatures.",
+      "source": "National Conference of State Legislatures",
+      "url": "https://www.ncsl.org/technology-and-communication/social-media-and-children-2025-legislation",
+      "published": "2025-10",
+      "byType": {
+        "social": {
+          "claim": "From 25 July 2025, the UK Online Safety Act requires age checks such as facial scans or photo ID before children reach the most harmful content; fines reach 10% of global revenue or 18 million pounds, whichever is greater.",
+          "source": "GOV.UK",
+          "url": "https://www.gov.uk/government/news/whats-changing-for-children-on-social-media-from-25-july-2025",
+          "published": "2025-07"
+        },
+        "dating": {
+          "claim": "Under the UK Online Safety Act, in-scope services had to finish illegal-content risk assessments by 16 March 2025, and companies can be fined up to 18 million pounds or 10% of qualifying worldwide revenue, whichever is greater.",
+          "source": "GOV.UK, Online Safety Act explainer",
+          "url": "https://www.gov.uk/government/publications/online-safety-act-explainer/online-safety-act-explainer",
+          "published": "2025-04"
+        },
+        "genai": {
+          "claim": "The EU AI Act's transparency rules, which the European Commission said would take effect in August 2026, require that people using AI systems such as chatbots be told they are interacting with a machine.",
+          "source": "European Commission, AI Act",
+          "url": "https://digital-strategy.ec.europa.eu/en/policies/regulatory-framework-ai",
+          "published": "2026"
+        },
+        "kids": {
+          "claim": "The FTC's January 2025 update to the COPPA Rule requires separate verifiable parental consent before sharing children's data with third parties for targeted advertising, limits data retention, and gives companies one year to comply.",
+          "source": "US Federal Trade Commission",
+          "url": "https://www.ftc.gov/news-events/news/press-releases/2025/01/ftc-finalizes-changes-childrens-privacy-rule-limiting-companies-ability-monetize-kids-data",
+          "published": "2025-01"
+        },
+        "fintech": {
+          "claim": "Since October 2025, EU instant payment rules require payment providers to offer payee verification, so a payee's name must match the IBAN; the European Commission says this helps prevent mistakes and scams.",
+          "source": "European Commission",
+          "url": "https://finance.ec.europa.eu/news/new-eu-rules-make-instant-euro-payments-faster-and-safer-2025-10-10_en",
+          "published": "2025-10"
+        },
+        "marketplace": {
+          "claim": "The EU General Product Safety Regulation requires online marketplaces active in the EU to register in the Safety Gate Portal and name a single point of contact; more than 1,200 had registered by the end of 2025.",
+          "source": "European Commission",
+          "url": "https://commission.europa.eu/news-and-media/news/increased-action-against-dangerous-products-eu-2025-2026-03-09_en",
+          "published": "2026-03"
+        },
+        "gaming": {
+          "claim": "Brazil's Digital Statute of Children and Adolescents (ECA Digital) bans loot boxes in games for children and teenagers, the Brazilian Senate's news service reported in March 2026.",
+          "source": "Brazilian Senate news service",
+          "url": "https://www12.senado.leg.br/radio/1/noticia/2026/03/27/eca-digital-proibe-rolagem-infinita-e-caixa-de-recompensa-em-games-infantojuvenis",
+          "published": "2026-03"
+        },
+        "gig": {
+          "claim": "The EU Platform Work Directive, adopted in 2024, gives people working through platforms the right to an explanation of any decision taken or supported by an automated system, without undue delay.",
+          "source": "EU Platform Work Directive",
+          "url": "https://data.consilium.europa.eu/doc/document/PE-89-2024-INIT/en/pdf",
+          "published": "2024-10"
+        }
+      }
+    },
     "versions": [
       {
         "company_type": "social",
@@ -20839,6 +21183,1169 @@
             ],
             "lesson": "Compliance is an ongoing program tied to product change, not a one-off project.",
             "law": "Several of these laws require reassessment when your service changes significantly, not only on a fixed schedule."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "tailored": false,
+    "company_types": [
+      "social",
+      "gaming",
+      "kids"
+    ],
+    "evidence": {
+      "claim": "NCMEC received an average of 137 financial sextortion reports a day in 2025, up 37% on 2024, and knows of at least three dozen US teenage boys who took their lives after being targeted.",
+      "source": "NCMEC, CyberTipline Data",
+      "url": "https://www.missingkids.org/gethelpnow/cybertipline/cybertiplinedata",
+      "published": "2026"
+    },
+    "versions": [
+      {
+        "company_type": "social",
+        "id": "sextortion",
+        "types": [
+          "social",
+          "gaming",
+          "kids"
+        ],
+        "title": "The gift card ultimatum",
+        "platform": "Teen social app",
+        "severity": "Sev 1",
+        "blurb": "Fake accounts posing as teenage girls target boys at one high school, get an image, then demand gift cards. Within hours, one boy posts that he wants to die.",
+        "steps": [
+          {
+            "t": "Mon 21:00",
+            "h": "Scripted accounts swarm one school",
+            "s": "In two hours, 40 new accounts posing as teenage girls follow hundreds of students at one high school. Three boys report the same script: a friendly opener in a game chat or comment thread, a move to direct messages, then a demand for gift cards and a threat to send an image to everyone they know.",
+            "o": [
+              {
+                "l": "Ban the three reported accounts now and send each boy your standard guide to blocking and reporting.",
+                "r": "The three accounts are gone in minutes. The other 37 keep messaging students, and new reports arrive all night.",
+                "d": {
+                  "safety": -8,
+                  "trust": -5,
+                  "reg": -5,
+                  "team": 3
+                },
+                "best": false
+              },
+              {
+                "l": "Link the accounts by device, sign-up pattern, scripts and payment handles, remove the whole network, preserve evidence, file mandatory reports and alert every student they contacted.",
+                "r": "One sweep removes 52 linked accounts, including 12 no one had reported. Targeted students get a safety notice and reports are filed by morning.",
+                "d": {
+                  "safety": 14,
+                  "trust": 6,
+                  "reg": 10,
+                  "team": -6
+                },
+                "best": true
+              },
+              {
+                "l": "Pause direct messages from all accounts under seven days old, platform-wide, until the morning review.",
+                "r": "The campaign stalls overnight, but so do thousands of real new users. By morning, the offenders switch to older accounts.",
+                "d": {
+                  "safety": 5,
+                  "trust": -6,
+                  "reg": -2,
+                  "team": -3
+                },
+                "best": false
+              }
+            ],
+            "lesson": "Sextortion is usually run as an organized campaign. Remove the whole network on shared signals, warn the people it targeted, and preserve and report as you go.",
+            "law": "In the US, 18 U.S.C. 2258A requires providers to report apparent child sexual abuse material and enticement of minors to NCMEC's CyberTipline as soon as reasonably possible. The 2024 REPORT Act extended preservation of reported content from 90 days to one year."
+          },
+          {
+            "t": "Tue 01:15",
+            "h": "A target says he wants to die",
+            "s": "Earlier tonight, one 15-year-old target paid $50 in gift cards, and the demand doubled. Now he posts a story saying he wants to die and that everyone will see the image. Your classifier flags the post while he is online.",
+            "o": [
+              {
+                "l": "Remove the story under your self-harm policy and send him the standard automated support message.",
+                "r": "The story is gone in seconds, but the message reads like a rule warning. He goes quiet, and you don't know if he is safe.",
+                "d": {
+                  "safety": -6,
+                  "trust": -4,
+                  "reg": -2,
+                  "team": 3
+                },
+                "best": false
+              },
+              {
+                "l": "Lock his account to protect him and email the parent address on file to explain what happened.",
+                "r": "The email reaches an address he set up himself. Locked out, he loses the friends who were reaching out and still fears the image will spread.",
+                "d": {
+                  "safety": -8,
+                  "trust": -6,
+                  "reg": -3,
+                  "team": -1
+                },
+                "best": false
+              },
+              {
+                "l": "Have a trained specialist message him now: connect him to a crisis line, tell him it's not his fault and not to pay, and request an emergency welfare check.",
+                "r": "He replies to the specialist and agrees to call the crisis line. Police confirm he is safe at home with a parent within the hour.",
+                "d": {
+                  "safety": 15,
+                  "trust": 6,
+                  "reg": 4,
+                  "team": -6
+                },
+                "best": true
+              }
+            ],
+            "lesson": "When a target says he wants to die, a fast, human response matters most. Tell him it isn't his fault and not to pay, and connect him to crisis support now."
+          },
+          {
+            "t": "Tue 10:00",
+            "h": "His family, police and school call",
+            "s": "Last night, the offender sent the image to three of the boy's followers. His parents want it gone for good, here and elsewhere. A detective asks what you have. The principal wants to warn every family and asks for the names of all targeted students.",
+            "o": [
+              {
+                "l": "Hash and remove every copy, help the family use a cross-platform hash service, route police to your preserved evidence, and help the school warn families without names.",
+                "r": "Copies come down within hours and are blocked on participating platforms. The detective has what she needs, and the school's warning names no one.",
+                "d": {
+                  "safety": 12,
+                  "trust": 10,
+                  "reg": 8,
+                  "team": -5
+                },
+                "best": true
+              },
+              {
+                "l": "Remove the copies your team finds and tell the family to report anything on other sites to police.",
+                "r": "Your platform is clean by evening, but a copy surfaces on another site and the family feels left on their own.",
+                "d": {
+                  "safety": 3,
+                  "trust": -8,
+                  "reg": -2,
+                  "team": 3
+                },
+                "best": false
+              },
+              {
+                "l": "Send the principal the list of targeted students so the school can call each family today.",
+                "r": "Families hear fast, but the list leaks to a student group chat and the targeted boys are named and teased.",
+                "d": {
+                  "safety": 3,
+                  "trust": -10,
+                  "reg": -8,
+                  "team": 0
+                },
+                "best": false
+              }
+            ],
+            "lesson": "Victims need the image gone everywhere, not just on your platform. Use hashing and shared hash lists, work with police through your preserved evidence, and keep every target's identity private.",
+            "law": "Under the US TAKE IT DOWN Act, enforced by the FTC since May 19, 2026, covered platforms must remove non-consensual intimate images and known identical copies within 48 hours of a valid removal request."
+          },
+          {
+            "t": "Week 3",
+            "h": "Closing the door on strangers",
+            "s": "The campaign is over. Your review finds offenders used public follower lists to find targets and make their threats credible, and messaged teens freely from accounts made that day. Leadership wants changes before next term but worries about growth.",
+            "o": [
+              {
+                "l": "Add a sextortion warning banner to teens' inboxes and leave messaging and privacy settings as they are.",
+                "r": "Teens stop noticing the banner within a week, and the next campaign uses the same public follower lists.",
+                "d": {
+                  "safety": -3,
+                  "trust": 2,
+                  "reg": -2,
+                  "team": 4
+                },
+                "best": false
+              },
+              {
+                "l": "By default for teens, limit messages from accounts they don't follow, hide friend and follower lists from strangers, and blur suspected nudity behind a warning.",
+                "r": "Unwanted messages to teens drop sharply, and the next campaign struggles to find targets. Some teens complain about the limits, and growth dips slightly.",
+                "d": {
+                  "safety": 13,
+                  "trust": 8,
+                  "reg": 8,
+                  "team": -5
+                },
+                "best": true
+              },
+              {
+                "l": "Require a government ID check for every new account before it can send any message.",
+                "r": "Fake accounts slow down, but sign-ups fall, privacy groups object to collecting teens' IDs, and offenders buy older accounts instead.",
+                "d": {
+                  "safety": 4,
+                  "trust": -8,
+                  "reg": -3,
+                  "team": -6
+                },
+                "best": false
+              }
+            ],
+            "lesson": "Sextortion depends on easy access to teens and their friend lists. Default protections that limit what strangers can see and send work better than warnings alone or blanket ID checks."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "tailored": false,
+    "company_types": [
+      "genai",
+      "social"
+    ],
+    "evidence": {
+      "claim": "In 2025, more than 182,000 reports to NCMEC's CyberTipline involved offenders possessing, generating or attempting to generate AI-generated child sexual abuse material.",
+      "source": "NCMEC, CyberTipline Data",
+      "url": "https://www.missingkids.org/gethelpnow/cybertipline/cybertiplinedata",
+      "published": "2026"
+    },
+    "versions": [
+      {
+        "company_type": "genai",
+        "id": "aiimages",
+        "types": [
+          "genai",
+          "social"
+        ],
+        "title": "The school photo edits",
+        "platform": "AI photo app",
+        "severity": "Sev 1",
+        "blurb": "A school says your AI editing feature is being used to turn students' photos into sexualized images. Copies are already spreading beyond your app.",
+        "steps": [
+          {
+            "t": "Mon 08:30",
+            "h": "A school reports edited student photos",
+            "s": "A school and three parents report that students' school photos, copied from public profiles, have been turned into sexualized images with your AI editing feature. Your logs confirm the edits were made in your app. The feature drives 35% of daily sessions and anchors this month's ad campaign.",
+            "o": [
+              {
+                "l": "Add the wording from the reported requests to your blocklist and keep the feature live while you investigate.",
+                "r": "Within hours, logs show users rephrasing requests to get past the list. The school asks why the feature is still on.",
+                "d": {
+                  "safety": -10,
+                  "trust": -8,
+                  "reg": -5,
+                  "team": 0
+                },
+                "best": false
+              },
+              {
+                "l": "Take the whole app offline until the investigation is complete.",
+                "r": "No new edits are made, but millions of users lose access to their photos, support is swamped and the outage becomes the headline.",
+                "d": {
+                  "safety": 10,
+                  "trust": -8,
+                  "reg": 0,
+                  "team": -12
+                },
+                "best": false
+              },
+              {
+                "l": "Switch off the AI editing feature for everyone now, keep the rest of the app running, and preserve the generation logs.",
+                "r": "Daily sessions fall by a third and the ad campaign is paused, but no new edits can be made and the evidence is intact.",
+                "d": {
+                  "safety": 12,
+                  "trust": 6,
+                  "reg": 6,
+                  "team": -4
+                },
+                "best": true
+              }
+            ],
+            "lesson": "Engagement can recover; harm to a child can't. Switch off the smallest thing that fully stops the harm, and keep the evidence."
+          },
+          {
+            "t": "Mon 16:00",
+            "h": "A hotline finds copies elsewhere",
+            "s": "A child-protection hotline tells you images carrying your app's watermark are circulating in group chats and on another platform. Your team has traced 212 edited images to nine accounts. An engineer proposes deleting every image and account today so nothing can leak again.",
+            "o": [
+              {
+                "l": "Suspend the nine accounts, report each case to the national child-abuse reporting center, preserve the evidence with restricted access, and share hashes through an industry hash-sharing program.",
+                "r": "Reports go in within hours. The other platform blocks matching copies the same day, and investigators later use your preserved logs to identify the account holders.",
+                "d": {
+                  "safety": 12,
+                  "trust": 6,
+                  "reg": 10,
+                  "team": -5
+                },
+                "best": true
+              },
+              {
+                "l": "Delete every edited image and the nine accounts today so the material can never leak from your systems.",
+                "r": "Your systems are clean, but the evidence investigators need is gone, and you have nothing to hash so other platforms can block copies.",
+                "d": {
+                  "safety": -5,
+                  "trust": -5,
+                  "reg": -15,
+                  "team": 3
+                },
+                "best": false
+              },
+              {
+                "l": "Suspend the accounts, but hold off reporting until legal confirms whether AI-edited images are covered by the reporting law.",
+                "r": "Legal confirms four days later that they are. Meanwhile copies keep spreading, and your late reports draw questions from investigators.",
+                "d": {
+                  "safety": -8,
+                  "trust": -3,
+                  "reg": -10,
+                  "team": 2
+                },
+                "best": false
+              }
+            ],
+            "lesson": "Never delete first. Images altered to show a real child count as abuse material: report them, preserve the evidence, and share hashes so other platforms can block copies.",
+            "law": "Under 18 U.S.C. 2258A, US providers must report apparent child sexual abuse material to NCMEC's CyberTipline as soon as reasonably possible. A completed report is treated as a request to preserve its contents for one year."
+          },
+          {
+            "t": "Tue 11:00",
+            "h": "Families, the regulator and the press",
+            "s": "Worried parents are forwarding copies they found to the school as proof. The school wants your help writing to families, the regulator has asked for a call today, and a local reporter knows which school is involved.",
+            "o": [
+              {
+                "l": "Ask the school to collect copies parents have found and send them to your team so you can find every match.",
+                "r": "You find a few more copies, but the images pass through more inboxes, and the school's lawyer warns that forwarding them is itself illegal.",
+                "d": {
+                  "safety": -10,
+                  "trust": -5,
+                  "reg": -8,
+                  "team": 0
+                },
+                "best": false
+              },
+              {
+                "l": "Ask families to stop forwarding copies, give them a named contact and a way to report without sharing images, and brief the regulator before a short public statement.",
+                "r": "Families stop circulating copies and use the reporting route. The regulator credits your early briefing, and your statement names no school or child.",
+                "d": {
+                  "safety": 10,
+                  "trust": 10,
+                  "reg": 10,
+                  "team": -6
+                },
+                "best": true
+              },
+              {
+                "l": "Issue a holding statement that your safeguards are robust and this was isolated misuse, and route the regulator's questions through your press team.",
+                "r": "The reporter learns copies are on another platform and 'isolated' falls apart. The regulator, kept at arm's length, opens a formal inquiry.",
+                "d": {
+                  "safety": 0,
+                  "trust": -12,
+                  "reg": -10,
+                  "team": 3
+                },
+                "best": false
+              }
+            ],
+            "lesson": "Every forward exposes the child again. Give families a way to act without sharing images, and brief the regulator before the press does.",
+            "law": "Since May 2026, the US TAKE IT DOWN Act requires covered platforms to remove reported intimate images, including AI-made 'digital forgeries', and known identical copies within 48 hours of a valid request."
+          },
+          {
+            "t": "Week 3",
+            "h": "Bringing the feature back",
+            "s": "Engagement is down 30%, and leadership wants the editing feature back before the holidays. Your review finds it never checked whether an uploaded photo showed a real person or a child, and was never red-teamed for this misuse.",
+            "o": [
+              {
+                "l": "Relaunch only once the feature blocks sexualized edits of real people, refuses edits to photos that appear to show minors, and passes an external red-team review.",
+                "r": "Relaunch slips four weeks and some family-photo edits are refused, but red-team attempts to repeat the misuse fail and the regulator accepts your plan.",
+                "d": {
+                  "safety": 12,
+                  "trust": 8,
+                  "reg": 10,
+                  "team": -6
+                },
+                "best": true
+              },
+              {
+                "l": "Relaunch next week with a longer blocked-words list and a new terms-of-use rule against sexualized edits of real people.",
+                "r": "Engagement recovers, but within days users find wording the list misses, and the hotline sends a new batch of reports.",
+                "d": {
+                  "safety": -12,
+                  "trust": -6,
+                  "reg": -8,
+                  "team": 3
+                },
+                "best": false
+              },
+              {
+                "l": "Relaunch only for paying users who verify they are adults, keeping the current filters.",
+                "r": "Misuse dips at first, but checking the uploader's age does nothing for the child in the photo, and reports resume from verified accounts.",
+                "d": {
+                  "safety": -3,
+                  "trust": -5,
+                  "reg": -3,
+                  "team": -2
+                },
+                "best": false
+              }
+            ],
+            "lesson": "Safeguards must protect the person in the photo, not just check the person using the app. Block sexualized edits of real people, detect minors, and red-team for abuse before launch."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "tailored": false,
+    "company_types": [
+      "fintech"
+    ],
+    "evidence": {
+      "claim": "Investment scams made up 38% of all authorised push payment scam losses at UK banks in 2025, reaching a record £221.5 million, up 40% on 2024.",
+      "source": "UK Finance Annual Fraud Report",
+      "url": "https://www.ukfinance.org.uk/system/files/2026-06/UK%20Finance%20Fraud%20Report%202026.pdf",
+      "published": "2026-06"
+    },
+    "versions": [
+      {
+        "company_type": "fintech",
+        "id": "investscam",
+        "types": [
+          "fintech"
+        ],
+        "title": "The guaranteed returns club",
+        "platform": "Payments app",
+        "severity": "Sev 2",
+        "blurb": "Hundreds of customers are paying the same new accounts after a celebrity video ad promised guaranteed returns. The celebrity never made it, and the platform is fake.",
+        "steps": [
+          {
+            "t": "Mon 09:00",
+            "h": "Many customers, the same new payees",
+            "s": "Your fraud team spots 340 customers making first-time payments, averaging £3,500, to six accounts at two other banks, all opened last month. Most chose \"paying a friend\" as the reason. Support chats mention a trading platform found through a celebrity video ad and an investment \"club\" on a messaging app.",
+            "o": [
+              {
+                "l": "Hold new payments to the six accounts for a scam warning and a call, contact customers who already paid, and alert the two receiving banks.",
+                "r": "Calls confirm a fake trading platform. Most customers stop paying, and the receiving banks freeze two accounts that still hold £180,000.",
+                "d": {
+                  "safety": 12,
+                  "trust": 6,
+                  "reg": 6,
+                  "team": -6
+                },
+                "best": true
+              },
+              {
+                "l": "Block all payments to the six accounts and restrict the 340 customers to small payments until each customer is reviewed.",
+                "r": "Payments to the six stop, but customers can't pay rent or bills, complaints spike, and the scammers send victims new account details within hours.",
+                "d": {
+                  "safety": 6,
+                  "trust": -10,
+                  "reg": -2,
+                  "team": -10
+                },
+                "best": false
+              },
+              {
+                "l": "Add the six accounts to a watchlist and wait for confirmed fraud reports before stepping in.",
+                "r": "It avoids false alarms, but 120 more customers pay over two days, and by the first reports the money has left the receiving banks.",
+                "d": {
+                  "safety": -12,
+                  "trust": -5,
+                  "reg": -5,
+                  "team": 3
+                },
+                "best": false
+              }
+            ],
+            "lesson": "Many customers paying the same new accounts, with reasons that don't fit, is a strong scam signal. Interrupt the payments, talk to customers and alert the receiving banks the same day."
+          },
+          {
+            "t": "Wed 11:00",
+            "h": "Scammers adapt and coach their victims",
+            "s": "The scammers now switch payee accounts every few days and coach victims on what to tell your staff. Your product lead asks how much friction to add. One customer, called twice, says \"I know what I'm doing\" and threatens to close his account if you block another payment.",
+            "o": [
+              {
+                "l": "Hold every first-time payment over £1,000 for 48 hours, for all customers, until the scam wave passes.",
+                "r": "Scam payments drop, but house deposits, rent and invoices stall for thousands of genuine customers, and support calls triple.",
+                "d": {
+                  "safety": 8,
+                  "trust": -8,
+                  "reg": -4,
+                  "team": -10
+                },
+                "best": false
+              },
+              {
+                "l": "Target friction by risk: a warning describing this exact scam, a hold and specialist call for high-risk payments, and a second conversation for customers who insist.",
+                "r": "Most genuine payments go through untouched. On the second call, the insistent customer hears how the fake platform works and stops paying.",
+                "d": {
+                  "safety": 12,
+                  "trust": 5,
+                  "reg": 7,
+                  "team": -6
+                },
+                "best": true
+              },
+              {
+                "l": "Show a stronger warning on all transfers and let customers proceed once they confirm they understand the risk.",
+                "r": "Coached customers tap through it in seconds. Losses continue, and the insistent customer sends another £15,000.",
+                "d": {
+                  "safety": -10,
+                  "trust": -4,
+                  "reg": -5,
+                  "team": 5
+                },
+                "best": false
+              }
+            ],
+            "lesson": "Friction works when it is targeted: generic warnings get tapped through, blanket holds punish genuine customers, and a customer under a scammer's influence often needs a real conversation.",
+            "law": "Since 30 October 2024, the UK Payment Services (Amendment) Regulations 2024 let firms delay a payment by up to four business days when they have reasonable grounds to suspect the customer is being scammed. They must tell the customer why."
+          },
+          {
+            "t": "Fri 10:00",
+            "h": "Victims want their money back",
+            "s": "About 400 customers have lost a total of £1.4 million, and a few ignored your warnings. Some are now getting calls offering to recover their money for a fee. The receiving banks have frozen part of the funds, and a local newspaper is preparing a story.",
+            "o": [
+              {
+                "l": "Reimburse customers who never saw a warning, and decline everyone who tapped through one as grossly negligent.",
+                "r": "It looks consistent, but gross negligence is a high bar. The ombudsman overturns many declines, and the newspaper leads with refused victims.",
+                "d": {
+                  "safety": -5,
+                  "trust": -10,
+                  "reg": -8,
+                  "team": -2
+                },
+                "best": false
+              },
+              {
+                "l": "Ask victims to wait while the receiving banks recover what they can, then reimburse the shortfall.",
+                "r": "Recovery takes months. Victims wait well past the reimbursement deadline, complaints reach the regulator, and the newspaper runs their stories.",
+                "d": {
+                  "safety": -6,
+                  "trust": -8,
+                  "reg": -10,
+                  "team": 2
+                },
+                "best": false
+              },
+              {
+                "l": "Reimburse eligible victims within the deadline, assess warning cases individually, claim the receiving banks' share, warn victims about recovery scams, and brief the newspaper on what you're doing.",
+                "r": "Most victims are repaid within days. The receiving banks pay their half and close linked accounts, and the story credits your fast response.",
+                "d": {
+                  "safety": 10,
+                  "trust": 10,
+                  "reg": 8,
+                  "team": -6
+                },
+                "best": true
+              }
+            ],
+            "lesson": "Reimbursement is a cost you share with the banks that received the money. Repay victims promptly, treat gross negligence as a high bar, and warn victims that recovery offers are often a second scam.",
+            "law": "Under the UK Payment Systems Regulator's reimbursement requirement, since 7 October 2024 payment firms must reimburse most authorised push payment scam victims up to £85,000, with sending and receiving firms splitting the cost 50:50. The gross negligence exception is a high bar."
+          },
+          {
+            "t": "Week 3",
+            "h": "Stopping the next wave earlier",
+            "s": "Losses have fallen, but copycat trading platforms appear every week. Almost every victim first saw a deepfake celebrity ad on social media or joined an investment group on a messaging app. Your CEO asks what changes now.",
+            "o": [
+              {
+                "l": "Launch a customer awareness campaign about investment scams and keep your detection rules as they are.",
+                "r": "Awareness rises a little, but coached victims trust the scammers over your emails, and the next platform takes a week to spot.",
+                "d": {
+                  "safety": -3,
+                  "trust": 3,
+                  "reg": -3,
+                  "team": 3
+                },
+                "best": false
+              },
+              {
+                "l": "Block payments to cryptocurrency exchanges and newly registered investment firms for all customers.",
+                "r": "Genuine investors complain and move their money elsewhere, while the scammers keep collecting payments through personal accounts at other banks.",
+                "d": {
+                  "safety": 2,
+                  "trust": -10,
+                  "reg": -3,
+                  "team": -2
+                },
+                "best": false
+              },
+              {
+                "l": "Report the ads and groups to the platforms with evidence, share payee details with other banks and police, and add alerts for many customers paying one new payee.",
+                "r": "Dozens of ads and groups come down, other banks close linked accounts faster, and the next copycat platform is caught within a day.",
+                "d": {
+                  "safety": 10,
+                  "trust": 8,
+                  "reg": 7,
+                  "team": -4
+                },
+                "best": true
+              }
+            ],
+            "lesson": "Investment scams start on social media and messaging apps, not in your app. Reporting ads, sharing data with other banks and spotting payee clusters early stops each new wave sooner."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "tailored": false,
+    "company_types": [
+      "gig"
+    ],
+    "evidence": {
+      "claim": "In 2021 and 2022, two US ride-hail companies reported a combined 52 fatal assaults and 4,469 of the five most serious types of sexual assault, according to the US Government Accountability Office.",
+      "source": "US Government Accountability Office",
+      "url": "https://www.gao.gov/products/gao-26-108552",
+      "published": "2026-07"
+    },
+    "versions": [
+      {
+        "company_type": "gig",
+        "id": "ridehail",
+        "types": [
+          "gig"
+        ],
+        "title": "The fourth complaint",
+        "platform": "Ride-hailing app",
+        "severity": "Sev 1",
+        "blurb": "At 2 a.m., a rider calls your safety line to report that her driver sexually assaulted her. By morning, you learn he had three earlier complaints nobody connected.",
+        "steps": [
+          {
+            "t": "Sat 02:10",
+            "h": "A rider calls the safety line",
+            "s": "A rider calls your in-app safety line to report that her driver sexually assaulted her on a trip that ended 30 minutes ago. She is home, shaken and alone. The driver is online and has just accepted another trip. Trip GPS and in-app messages auto-delete after 30 days.",
+            "o": [
+              {
+                "l": "Leave the driver active until an investigator reviews the case on Monday, and have the agent take her full written account tonight.",
+                "r": "The driver completes 40 more trips before Monday. She retells every detail to a generalist agent, then stops answering your messages.",
+                "d": {
+                  "safety": -12,
+                  "trust": -8,
+                  "reg": -4,
+                  "team": 2
+                },
+                "best": false
+              },
+              {
+                "l": "Put the driver on a temporary hold, connect her to a trained safety specialist who offers police and support contacts, and preserve the trip's GPS, messages and call logs.",
+                "r": "His pending pickup is reassigned and he can't drive while the case is open. She chooses next steps with a specialist, and the trip record is preserved.",
+                "d": {
+                  "safety": 12,
+                  "trust": 6,
+                  "reg": 5,
+                  "team": -4
+                },
+                "best": true
+              },
+              {
+                "l": "Permanently deactivate the driver right away and tell her he has been removed from the platform for good.",
+                "r": "She feels believed tonight, but the case is closed with no evidence kept. When the driver appeals, your team has nothing to stand behind.",
+                "d": {
+                  "safety": 8,
+                  "trust": -3,
+                  "reg": -4,
+                  "team": -5
+                },
+                "best": false
+              }
+            ],
+            "lesson": "A temporary hold manages risk without deciding guilt. In the first hour, support the person reporting and preserve the evidence, because deletion schedules don't pause for investigations."
+          },
+          {
+            "t": "Sat 09:00",
+            "h": "Three complaints nobody connected",
+            "s": "Your investigator finds three earlier complaints about this driver in eight months: two for inappropriate comments, one for a long late-night route deviation. Each was closed by a different agent with a warning. The driver denies the report, says he relies on the income, and asks to be reinstated today.",
+            "o": [
+              {
+                "l": "Keep the hold, tell the driver the general nature of the report, hear his side, and decide within ten days using trip data and his full history.",
+                "r": "Within a week, trip GPS and the complaint pattern support her account. You deactivate him with a written reason and a right to appeal.",
+                "d": {
+                  "safety": 12,
+                  "trust": 6,
+                  "reg": 6,
+                  "team": -5
+                },
+                "best": true
+              },
+              {
+                "l": "Reinstate the driver while police decide whether to act, since the earlier complaints were minor and none was ever upheld.",
+                "r": "He is back on the road within hours. Ten days later, another rider reports a late-night detour and unwanted comments from him.",
+                "d": {
+                  "safety": -14,
+                  "trust": -8,
+                  "reg": -5,
+                  "team": 3
+                },
+                "best": false
+              },
+              {
+                "l": "Keep him on hold with no explanation until police finish their investigation, however long that takes.",
+                "r": "Riders are protected, but months pass with no decision. The driver files repeated appeals, a drivers' group takes up his case, and your own review stalls.",
+                "d": {
+                  "safety": 8,
+                  "trust": -5,
+                  "reg": -3,
+                  "team": -6
+                },
+                "best": false
+              }
+            ],
+            "lesson": "Police timelines aren't yours. Run a fair process of your own on the evidence you hold, and review past complaints as a pattern, not one at a time."
+          },
+          {
+            "t": "Mon 11:00",
+            "h": "The detective and the rider",
+            "s": "A detective asks for the driver's identity, the trip's GPS and messages, and \"everything you have on both of them.\" Meanwhile, your automated systems have asked the rider to rate the trip. She writes back asking whether anyone is actually handling her case.",
+            "o": [
+              {
+                "l": "Send the detective everything on both accounts right away, including her full trip history, to show you are cooperating fully.",
+                "r": "The case moves, but two years of her unrelated trips end up in a file that the driver's defense lawyer can later see.",
+                "d": {
+                  "safety": 2,
+                  "trust": -8,
+                  "reg": -5,
+                  "team": 0
+                },
+                "best": false
+              },
+              {
+                "l": "Insist on a warrant for any data, and route all contact with the rider through legal so nothing you say affects the case.",
+                "r": "The warrant takes three weeks. Her only messages from you are formal legal letters, and she tells the detective she feels abandoned.",
+                "d": {
+                  "safety": -6,
+                  "trust": -8,
+                  "reg": 1,
+                  "team": 2
+                },
+                "best": false
+              },
+              {
+                "l": "Share the trip's GPS, messages and driver details once valid legal process arrives, switch off automated prompts to her, and assign her one named specialist.",
+                "r": "The detective has what the case needs within days. She hears from one person, is never asked to retell her account, and keeps working with police.",
+                "d": {
+                  "safety": 10,
+                  "trust": 8,
+                  "reg": 6,
+                  "team": -3
+                },
+                "best": true
+              }
+            ],
+            "lesson": "Share what the case needs under proper legal process, not everything you hold. One trained contact, and never making her retell it, is what trauma-informed support looks like."
+          },
+          {
+            "t": "Week 3",
+            "h": "Why the pattern was missed",
+            "s": "The driver is deactivated and the police case continues. Your review finds complaints are filed by trip, so no one ever saw a driver's history in one place. Criminal record checks rerun only once a year. Your CEO wants a plan by Friday.",
+            "o": [
+              {
+                "l": "Automatically deactivate any driver after a single complaint about inappropriate comments or route deviation.",
+                "r": "Hundreds of drivers lose their income over traffic detours and false reports. Appeals swamp your team, and drivers start refusing late-night trips.",
+                "d": {
+                  "safety": 3,
+                  "trust": -8,
+                  "reg": -2,
+                  "team": -12
+                },
+                "best": false
+              },
+              {
+                "l": "Link every complaint to the driver's full history with escalation rules, add continuous criminal-record monitoring, and build in-trip safety tools for riders and drivers alike.",
+                "r": "Patterns reach an investigator by the second complaint. Drivers, who face assaults from riders too, get the same emergency button and audio recording.",
+                "d": {
+                  "safety": 12,
+                  "trust": 8,
+                  "reg": 7,
+                  "team": -5
+                },
+                "best": true
+              },
+              {
+                "l": "Launch a rider emergency button and a public safety report this month, and plan the complaint-system changes for next year.",
+                "r": "The launch gets good coverage. But complaints are still reviewed one trip at a time, and two months later another pattern slips through.",
+                "d": {
+                  "safety": 2,
+                  "trust": 3,
+                  "reg": -2,
+                  "team": 2
+                },
+                "best": false
+              }
+            ],
+            "lesson": "Low-level complaints are often early warnings, so review them as one history, not trip by trip. Build the same protections for drivers, who are assaulted by riders too.",
+            "law": "In Texas, the ride-hail law (Occupations Code Chapter 2402) requires companies to rerun criminal background and driving history checks on every driver at least once a year. Continuous monitoring goes beyond that minimum."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "tailored": false,
+    "company_types": [
+      "dating"
+    ],
+    "evidence": {
+      "claim": "People aged 20 to 29 filed 22,061 sextortion complaints with the FBI's Internet Crime Complaint Center in 2025, more than any other age group.",
+      "source": "FBI IC3 Annual Report",
+      "url": "https://www.ic3.gov/AnnualReport/Reports/2025_IC3Report.pdf",
+      "published": "2026-04"
+    },
+    "versions": [
+      {
+        "company_type": "dating",
+        "id": "datingsextortion",
+        "types": [
+          "dating"
+        ],
+        "title": "The video-call blackmail ring",
+        "platform": "Dating app",
+        "severity": "Sev 2",
+        "blurb": "A ring of fake profiles lures members to video chat, records them and demands money. One report leads to hundreds, and the network is still matching.",
+        "steps": [
+          {
+            "t": "Mon 08:30",
+            "h": "A member reports blackmail",
+            "s": "A member reports that a match moved him to a video-chat app within an hour, secretly recorded an intimate call, and now demands money or the recording goes to his contacts. Your team searches and finds 340 similar reports in six weeks, most from members in their twenties. The profiles look different, but their opening messages are nearly identical.",
+            "o": [
+              {
+                "l": "Ban the 340 reported profiles today and send each reporter your standard harassment reply.",
+                "r": "The profiles are gone by evening, but new ones with the same scripts appear overnight. Reporters get no advice on the blackmail itself.",
+                "d": {
+                  "safety": 3,
+                  "trust": -4,
+                  "reg": -2,
+                  "team": -6
+                },
+                "best": false
+              },
+              {
+                "l": "Block video-chat links and phone numbers in all chats across the app while you investigate.",
+                "r": "Fast moves off the app slow down, but so do genuine dates. Members complain loudly, and the group switches to spelled-out usernames within two days.",
+                "d": {
+                  "safety": 5,
+                  "trust": -8,
+                  "reg": 0,
+                  "team": -4
+                },
+                "best": false
+              },
+              {
+                "l": "Open an incident, give the reporter clear advice (don't pay, stop replying, keep evidence), preserve all reports, and map the linked profiles today.",
+                "r": "The reporter stops replying and doesn't pay. By evening, matching photos, scripts and devices link 1,100 profiles, far more than were reported.",
+                "d": {
+                  "safety": 10,
+                  "trust": 6,
+                  "reg": 5,
+                  "team": -5
+                },
+                "best": true
+              }
+            ],
+            "lesson": "One sextortion report is often a window into a network. Support the victim first, preserve evidence, and map the network before you start banning."
+          },
+          {
+            "t": "Tue 09:00",
+            "h": "Deciding how wide to sweep",
+            "s": "Investigators link 1,100 profiles through AI-generated photos, copied scripts and 40 shared devices. About 900 match on several strong signals; 200 match on one weak signal, such as a photo flagged as possibly AI-edited. New fakes appear daily, and any sweep will tell the group you have found them.",
+            "o": [
+              {
+                "l": "Keep watching for another week so you can map every profile and device before acting.",
+                "r": "The map gets more complete, but about 70 more members are blackmailed that week, and the group starts moving to new devices.",
+                "d": {
+                  "safety": -12,
+                  "trust": -6,
+                  "reg": -3,
+                  "team": 0
+                },
+                "best": false
+              },
+              {
+                "l": "Remove the 900 in one coordinated sweep, block their devices, preserve evidence, and send the 200 borderline profiles to fast human review.",
+                "r": "The 900 go within an hour and new sign-ups from those devices fail. Review clears 130 real members and removes 70 more fakes.",
+                "d": {
+                  "safety": 12,
+                  "trust": 6,
+                  "reg": 5,
+                  "team": -5
+                },
+                "best": true
+              },
+              {
+                "l": "Ban all 1,100 now, plus any account that shares a device or an opening line with them.",
+                "r": "The network is gone overnight, but so are about 400 real members. Appeals flood support, and a viral thread calls your bans random.",
+                "d": {
+                  "safety": 8,
+                  "trust": -10,
+                  "reg": -3,
+                  "team": -10
+                },
+                "best": false
+              }
+            ],
+            "lesson": "Remove networks in one coordinated sweep using several strong signals together. Waiting costs victims, and banning on one weak signal costs innocent members."
+          },
+          {
+            "t": "Wed 11:00",
+            "h": "Hundreds of members need help",
+            "s": "About 2,300 members chatted with the network, and 400 have reported blackmail. Some paid and were asked for more; several write that they feel desperate. A national police cybercrime unit asks what you can share.",
+            "o": [
+              {
+                "l": "Message all 2,300 with clear steps (don't pay, stop contact, keep evidence), offer takedown help and crisis support, and refer the network to police with preserved evidence.",
+                "r": "More victims come forward and fewer pay. Dozens use your takedown help, and police trace the payment accounts to a crime group abroad.",
+                "d": {
+                  "safety": 12,
+                  "trust": 10,
+                  "reg": 8,
+                  "team": -6
+                },
+                "best": true
+              },
+              {
+                "l": "Contact only the 400 members who reported blackmail, so you don't alarm the 1,900 who may not have been targeted.",
+                "r": "Reporters get help, but many targeted members never reported out of shame. Some keep paying, and others learn about the network from the news.",
+                "d": {
+                  "safety": 2,
+                  "trust": -8,
+                  "reg": -2,
+                  "team": 0
+                },
+                "best": false
+              },
+              {
+                "l": "Tell victims to report to police themselves, and wait for a formal legal request before engaging with the police unit.",
+                "r": "Victims bounce between your support team and the police. The legal request takes weeks, and by then the group's payment accounts have closed.",
+                "d": {
+                  "safety": -5,
+                  "trust": -6,
+                  "reg": -2,
+                  "team": 3
+                },
+                "best": false
+              }
+            ],
+            "lesson": "Paying rarely ends the threats, so tell everyone exposed, not just reporters, what to do, help with takedowns, and give police a case they can act on.",
+            "law": "Since May 19, 2026, the US TAKE IT DOWN Act requires covered platforms to offer a way to request removal of non-consensual intimate images, and to remove them and known identical copies within 48 hours of a valid request."
+          },
+          {
+            "t": "Week 6",
+            "h": "Stopping the next network",
+            "s": "The sweep holds, but a smaller copy of the network appears a month later. Your data shows most blackmail cases moved off the app within an hour of matching. Your CEO asks what changes.",
+            "o": [
+              {
+                "l": "Warn members in chat when a new match pushes to move off the app, screen new photos for AI generation, and share network signals with other platforms.",
+                "r": "Many members pause after the warning, and blackmail reports fall by more than half. New copycat profiles are caught at sign-up.",
+                "d": {
+                  "safety": 12,
+                  "trust": 8,
+                  "reg": 8,
+                  "team": -5
+                },
+                "best": true
+              },
+              {
+                "l": "Require every member to pass a live selfie video check before they can send any message.",
+                "r": "Fake profiles drop sharply, but sign-ups fall by a quarter, and within weeks the group buys verified accounts from real people.",
+                "d": {
+                  "safety": 6,
+                  "trust": -4,
+                  "reg": 2,
+                  "team": -8
+                },
+                "best": false
+              },
+              {
+                "l": "Publish a sextortion safety guide in the help center and send it to all members in a one-off email.",
+                "r": "The guide gets good press, but few members read it, and the copycat network runs the same playbook.",
+                "d": {
+                  "safety": -5,
+                  "trust": 3,
+                  "reg": -3,
+                  "team": 2
+                },
+                "best": false
+              }
+            ],
+            "lesson": "Sextortion follows a pattern: fast trust, a fast move off the app, then threats. Put warnings at that moment, and share signals so networks can't just move elsewhere.",
+            "law": "The UK Online Safety Act lists sharing or threatening to share intimate images as a priority offence. Platforms with UK users must take proportionate steps to reduce the risk of their service being used to commit or facilitate it."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "tailored": false,
+    "company_types": [
+      "marketplace"
+    ],
+    "evidence": {
+      "claim": "Fraud using stolen card details to buy online, by phone or by mail order reached 3,196,962 UK cases in 2025, up 13%, with £423.5 million lost.",
+      "source": "UK Finance Annual Fraud Report",
+      "url": "https://www.ukfinance.org.uk/system/files/2026-06/UK%20Finance%20Fraud%20Report%202026.pdf",
+      "published": "2026-06"
+    },
+    "versions": [
+      {
+        "company_type": "marketplace",
+        "id": "triangulation",
+        "types": [
+          "marketplace"
+        ],
+        "title": "The bargains bought with stolen cards",
+        "platform": "Online marketplace",
+        "severity": "Sev 2",
+        "blurb": "Buyers love the cheap headphones and consoles. Then a big retailer's fraud team calls: the goods were bought with stolen cards, and the orders trace back to your sellers.",
+        "steps": [
+          {
+            "t": "Mon 09:00",
+            "h": "A retailer's fraud team calls",
+            "s": "A large retailer's investigators say hundreds of its orders, paid with stolen cards, trace back to sellers on your marketplace. Your data points to 85 sellers who joined in the last eight weeks, most with hundreds of sales of consoles and headphones at 20-30% below market. Their tracking numbers come from that retailer, and buyers' photos show its boxes.",
+            "o": [
+              {
+                "l": "Hold payouts to the 85 sellers, confirm the pattern on a sample of orders, and set up a direct line with the retailer's investigators.",
+                "r": "By evening 46 of 50 sampled orders match the retailer's stolen-card list, and about $700,000 in pending payouts stays with you.",
+                "d": {
+                  "safety": 10,
+                  "trust": 5,
+                  "reg": 8,
+                  "team": -5
+                },
+                "best": true
+              },
+              {
+                "l": "Ask the retailer to send a formal legal request with evidence before you act against any seller.",
+                "r": "It feels careful, but the request takes nine days. Meanwhile payouts go out and every new order triggers another stolen-card purchase.",
+                "d": {
+                  "safety": -10,
+                  "trust": -3,
+                  "reg": -5,
+                  "team": 3
+                },
+                "best": false
+              },
+              {
+                "l": "Log the report and leave it to the retailer, since your buyers paid and got their goods.",
+                "r": "Your metrics look fine for a week. Then the retailer starts canceling shipments to your buyers, and the sellers cash out and disappear.",
+                "d": {
+                  "safety": -12,
+                  "trust": -8,
+                  "reg": -8,
+                  "team": 5
+                },
+                "best": false
+              }
+            ],
+            "lesson": "Triangulation fraud hides behind happy buyers: new high-volume sellers, below-market prices and another retailer's tracking are the signal. Hold payouts while you confirm it.",
+            "law": "The US INFORM Consumers Act requires online marketplaces to collect and verify bank, tax ID and contact details from high-volume third-party sellers: those with 200 or more sales and $5,000 or more in revenue in a 12-month period."
+          },
+          {
+            "t": "Tue 09:00",
+            "h": "Thousands of paid orders in limbo",
+            "s": "The pattern is confirmed. The 85 sellers have 3,400 open orders from real buyers who have already paid. Every order these sellers fill means another purchase with a stolen card. Your marketplace team warns that canceling them all will flood support and anger loyal buyers.",
+            "o": [
+              {
+                "l": "Let the open orders complete so buyers get what they paid for, and block the sellers from taking new ones.",
+                "r": "Buyers stay happy, but about 3,400 more stolen-card purchases go through, and the retailer says it is weighing legal action.",
+                "d": {
+                  "safety": -15,
+                  "trust": -5,
+                  "reg": -8,
+                  "team": 5
+                },
+                "best": false
+              },
+              {
+                "l": "Ban all 85 sellers and cancel every open order now, using your standard seller-unavailable notice and refund timeline.",
+                "r": "The fraud stops, but buyers get a vague email and a 7-day refund wait. Support queues triple and buyers post that you took their money.",
+                "d": {
+                  "safety": 10,
+                  "trust": -8,
+                  "reg": 0,
+                  "team": -10
+                },
+                "best": false
+              },
+              {
+                "l": "Remove the sellers, cancel their open orders, refund buyers in full today from held payouts, and tell buyers plainly what happened.",
+                "r": "Some buyers are annoyed to lose a bargain, but most accept the explanation, and the stolen-card purchases tied to your sellers stop.",
+                "d": {
+                  "safety": 12,
+                  "trust": 5,
+                  "reg": 5,
+                  "team": -6
+                },
+                "best": true
+              }
+            ],
+            "lesson": "Every order a triangulation seller fills creates a new card-fraud victim. Stop the flow, then make buyers whole quickly and honestly; held payouts are what pay for it."
+          },
+          {
+            "t": "Thu 11:00",
+            "h": "Everyone wants answers at once",
+            "s": "Your payment processor warns that your dispute rate has doubled and is nearing card network limits, driven by buyers whose shipments the retailer canceled. The retailer wants every buyer's name and address, police have opened a case, and a consumer reporter asks what you knew.",
+            "o": [
+              {
+                "l": "Send the retailer your full buyer and seller records so it can recover its losses as fast as possible.",
+                "r": "The retailer is grateful, but buyers start getting demand letters, and your privacy team flags sharing innocent buyers' data in bulk as a likely privacy breach.",
+                "d": {
+                  "safety": 0,
+                  "trust": -8,
+                  "reg": -10,
+                  "team": 3
+                },
+                "best": false
+              },
+              {
+                "l": "Refund buyers with canceled shipments, send the processor a written plan, share seller evidence with the retailer and police, and tell the reporter the facts.",
+                "r": "Disputes fall within two weeks and the processor holds off on penalties. Police link the sellers to a known fraud ring, and the story runs with your response.",
+                "d": {
+                  "safety": 8,
+                  "trust": 8,
+                  "reg": 10,
+                  "team": -6
+                },
+                "best": true
+              },
+              {
+                "l": "Fight each dispute case by case and say nothing publicly until police finish their investigation.",
+                "r": "Your team loses most disputes, and the processor starts holding back a share of your funds. The reporter runs the story without your side.",
+                "d": {
+                  "safety": -3,
+                  "trust": -10,
+                  "reg": -6,
+                  "team": -5
+                },
+                "best": false
+              }
+            ],
+            "lesson": "Share what each party needs, not everything you have. Fixing the cause of disputes and giving your processor a plan protects your ability to take payments."
+          },
+          {
+            "t": "Week 3",
+            "h": "Fixing how sellers get in",
+            "s": "The network is gone. Its sellers needed only an email and a bank account to start, and reached hundreds of sales before anyone checked who they were. Leadership asks what changes before the holiday rush.",
+            "o": [
+              {
+                "l": "Block new sellers from listing consoles and headphones until they have six months of history.",
+                "r": "This network can't return in those categories, but genuine new sellers go elsewhere and the next ring moves into phones and laptops.",
+                "d": {
+                  "safety": 4,
+                  "trust": -6,
+                  "reg": 0,
+                  "team": 0
+                },
+                "best": false
+              },
+              {
+                "l": "Add an automatic rule that flags listings priced more than 20% below market for manual review.",
+                "r": "Reviewers drown in genuine clearance deals, and the next ring prices just 15% below market and slips through.",
+                "d": {
+                  "safety": 3,
+                  "trust": 0,
+                  "reg": 0,
+                  "team": -8
+                },
+                "best": false
+              },
+              {
+                "l": "Verify seller identity and bank details before first sale, hold early payouts for fast-growing sellers, flag other retailers' tracking numbers, and share signals with retailers.",
+                "r": "Sign-ups dip slightly. A copycat ring is caught in its first week with payouts still held, and the retailer joins a standing signal-sharing channel.",
+                "d": {
+                  "safety": 10,
+                  "trust": 6,
+                  "reg": 10,
+                  "team": -4
+                },
+                "best": true
+              }
+            ],
+            "lesson": "Triangulation rings need fast access to payouts. Verifying who sellers are, slowing early payouts and sharing signals with retailers remove what makes the scheme pay.",
+            "law": "In the EU, the Digital Services Act requires online marketplaces to make sure sellers give verified identity information before they can start selling."
           }
         ]
       }

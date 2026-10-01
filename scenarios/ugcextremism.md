@@ -4,6 +4,10 @@
 
 > A user-built world recreating a real mass shooting is trending among teenage players.
 
+## Why this scenario
+
+In a November 2025 action on gaming and gaming-related platforms, Europol and eight countries referred about 5,408 jihadist and 1,070 violent right-wing extremist links; Europol says perpetrators re-enact terrorist attacks and school shootings in 3D gameplay. Source: [Europol](https://www.europol.europa.eu/media-press/newsroom/news/europol-and-partner-countries-combat-online-radicalisation-gaming-platforms), 2025.
+
 ## Decision 1 · Fri 16:00: A trending world
 
 A user-built world recreating last month's mass shooting, with the attacker's manifesto on the walls, has 80,000 visits, mostly from teenagers. A news outlet has just noticed.

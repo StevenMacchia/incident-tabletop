@@ -4,6 +4,12 @@
 
 > A support agent says a contractor on your review team has been reading private messages and location history for people who never hit a queue, including the contractor's ex-partner.
 
+## Why this scenario
+
+In 2023 the FTC charged a home security camera company with letting any employee or contractor access customers' private videos; one employee viewed thousands of recordings from bedrooms and bathrooms. The order required $5.8 million in refunds. Source: [US Federal Trade Commission](https://www.ftc.gov/news-events/news/press-releases/2023/05/ftc-says-ring-employees-illegally-surveilled-customers-failed-stop-hackers-taking-control-users), 2023.
+
+- **Fintech & payments:** In May 2025 a major US crypto exchange disclosed that criminals had paid support contractors and employees outside the US to pull customer data from internal systems; it estimated costs of $180 million to $400 million. Source: [Coinbase SEC filing](https://www.sec.gov/Archives/edgar/data/1679788/000167978825000094/coin-20250514.htm), 2025.
+
 _This scenario has 8 tailored versions, one per company type. The version below is written for social media & video companies; [play the others live](https://stevenmacchia.com/ts-workbench/#tabletop)._
 
 ## Decision 1 · Wed 14:00: A tip from inside

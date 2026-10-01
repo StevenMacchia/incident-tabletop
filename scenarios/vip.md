@@ -4,6 +4,10 @@
 
 > A journalist has screenshots suggesting high-profile accounts get slower, softer enforcement. They want comment within 24 hours.
 
+## Why this scenario
+
+The Oversight Board reported in 2022 that, under a major social network's cross-check program for high-profile users, decisions on flagged content took about 12 days on average for US users; one item waited 222 days. Source: [Oversight Board](https://www.oversightboard.com/wp-content/uploads/2026/03/512630074120983.pdf), 2022.
+
 ## Decision 1 · Hour 0: A journalist has your internal screenshots
 
 The screenshots show violations by a celebrity account sent to a "sensitive accounts" queue and left up for weeks, while ordinary users were removed within hours for similar posts. The deadline is 24 hours.

@@ -4,6 +4,10 @@
 
 > Holiday travelers arrive at rentals that don't exist, after being talked into paying outside your platform.
 
+## Why this scenario
+
+UK victims made 6,066 reports of holiday fraud to Action Fraud in 2024 and lost £11,183,957. Police advise that a request to pay by bank transfer can be a sign of fraud. Source: [Action Fraud (City of London Police)](https://www.atol.org/news-and-blogs/2025/02/24/dont-let-fraudsters-trip-you-up-this-summer-new-alert-issued-as-people-look-to-snap-up-online-holiday-deals/), 2025.
+
 ## Decision 1 · Fri 18:00: Guests arrive at empty lots
 
 Twelve families arrive for holiday stays to find the addresses are empty lots or someone else's home. Each booking started on your platform, but the “host” offered a discount for paying by bank transfer.

@@ -4,6 +4,10 @@
 
 > A user reports being sexually assaulted by a match. The accused is still active and has more dates lined up.
 
+## Why this scenario
+
+A peer-reviewed study of 3,413 sexual assault forensic exam records from one US state (2017-2020) found that assaults after a dating-app meeting made up 8.02% of all cases and 13.92% of acquaintance assaults. Source: [Journal of Interpersonal Violence](https://doi.org/10.1177/08862605221130390), 2022.
+
 ## Decision 1 · Sun 10:00: A report of assault
 
 A user reports that a match sexually assaulted her on a first date last night. She has told the police. The accused's account is active, and he has three dates arranged this week.

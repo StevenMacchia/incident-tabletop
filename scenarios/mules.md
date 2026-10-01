@@ -4,6 +4,10 @@
 
 > Young customers are receiving and instantly forwarding stolen money. Many were recruited on social media.
 
+## Why this scenario
+
+UK banks and payment firms surveyed by the Financial Conduct Authority closed the accounts of 238,396 suspected money mules in 2025, up from 184,935 in 2023; 85,425 were customers aged 25 and under. Source: [UK Financial Conduct Authority](https://www.fca.org.uk/news/press-releases/firms-crack-down-money-mules-need-do-more), 2026.
+
 ## Decision 1 · Mon 08:30: An unusual pattern
 
 180 accounts opened last month share a pattern: many incoming payments from strangers, forwarded within minutes to a few crypto exchanges. Most holders are 18 to 21. Two banks have flagged payments to these accounts as fraud.

@@ -4,6 +4,10 @@
 
 > Scammers post cheap consoles and phones, then move buyers off the platform to pay by bank transfer.
 
+## Why this scenario
+
+Purchase scams, where buyers pay for goods that never arrive, made up 71% of all authorised push payment scam cases UK banks reported in 2025, with record losses of £118.1 million. Source: [UK Finance Annual Fraud Report](https://www.ukfinance.org.uk/system/files/2026-06/UK%20Finance%20Fraud%20Report%202026.pdf), 2026.
+
 ## Decision 1 · Thu 10:00: A new scam pattern
 
 Support has 200 reports this week: buyers paid by bank transfer for consoles that never arrived. The listings are new, priced 40% below market, and the seller's first message asks buyers to “pay outside the app to avoid fees”.

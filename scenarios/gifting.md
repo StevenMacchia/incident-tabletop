@@ -4,6 +4,10 @@
 
 > A parent reports an adult who befriended their 11-year-old in your game with in-game gifts, then moved the chat to another app.
 
+## Why this scenario
+
+In a 2024 Thorn survey of 1,200 US 13-20-year-olds, 1 in 4 said that while under 18 they had been asked online for a sexual image or interaction in exchange for something of value. Source: [Thorn, Commodified Sexual Interactions Involving Minors](https://info.thorn.org/hubfs/Research/Thorn_CommodifiedSexualInteractionsInvolvingMinors_Apr2025.pdf), 2025.
+
 ## Decision 1 · Tue 19:00: A parent's report
 
 A parent emails that an adult player gifted their 11-year-old in-game currency for weeks, then asked them to chat on another app and send photos. They have screenshots. The adult's account is still active.

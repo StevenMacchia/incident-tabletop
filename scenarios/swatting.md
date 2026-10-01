@@ -4,6 +4,10 @@
 
 > A popular streamer is hit by a coordinated harassment campaign that escalates to posting their home address.
 
+## Why this scenario
+
+A California teenager sentenced in February 2025 made over 375 swatting and threat calls between August 2022 and January 2024 and advertised swatting-for-a-fee on social media, the US Justice Department said. Source: [US Department of Justice](https://www.justice.gov/opa/pr/california-teenager-sentenced-48-months-prison-nationwide-swatting-spree), 2025.
+
 ## Decision 1 · Sat 21:00: A harassment campaign
 
 A streamer with 500,000 followers is being flooded with slurs in voice and text chat across dozens of matches. Hundreds of brand-new accounts are involved.

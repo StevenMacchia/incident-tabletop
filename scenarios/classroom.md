@@ -4,6 +4,10 @@
 
 > A student shares an explicit image of a classmate in your app's class chat. Teachers and parents want answers.
 
+## Why this scenario
+
+In Thorn's late-2025 survey of US 9-17-year-olds, roughly 1 in 6 (16%) said they had been sent or shown another minor's nude image without that person's consent. Source: [Thorn, Youth Perspectives on Online Safety](https://info.thorn.org/hubfs/Research/Thorn_2025YouthPerspectives_Report.pdf), 2026.
+
 ## Decision 1 · Tue 11:00: An image in the class chat
 
 A 14-year-old posted a nude image of a classmate in a class group chat during school hours. Thirty students saw it before a teacher reported it.

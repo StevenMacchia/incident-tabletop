@@ -4,6 +4,10 @@
 
 > An EU regulator asks how your recommender exposes minors to eating-disorder content. You have ten working days, and your data has gaps.
 
+## Why this scenario
+
+In February 2026 the European Commission preliminarily found a major video platform in breach of the EU Digital Services Act over addictive design, including its personalised recommender system; confirmed breaches can bring fines up to 6% of worldwide annual turnover. Source: [European Commission](https://ec.europa.eu/commission/presscorner/detail/en/ip_26_312), 2026.
+
 ## Decision 1 · Day 0: A formal request for information arrives
 
 The regulator is asking how your recommendation systems affect teen users' exposure to eating-disorder content, what risk assessment you did, and which mitigations are in place. The deadline is ten working days. Legal forwarded it to you with the note "thoughts?"

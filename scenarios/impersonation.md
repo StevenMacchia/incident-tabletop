@@ -4,6 +4,10 @@
 
 > Scammers are calling customers pretending to be your fraud team and persuading them to move savings to a “safe account”.
 
+## Why this scenario
+
+Americans reported losing nearly $1 billion to business impersonators in 2025, with bank impersonators causing the highest losses. The FTC says the costliest impersonation scams often start with a fake security alert from a bank. Source: [US Federal Trade Commission](https://www.ftc.gov/news-events/news/press-releases/2026/06/ftc-data-show-people-reported-losing-3-point-5-billion-imposter-scams-2025), 2026.
+
 ## Decision 1 · Fri 16:00: Customers are losing their savings
 
 In two days, 60 customers sent their savings to “safe accounts” after calls from people claiming to be your fraud team, using a spoofed version of your phone number. Losses average $8,000.

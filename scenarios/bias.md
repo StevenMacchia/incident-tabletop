@@ -4,6 +4,14 @@
 
 > A journalist's analysis says Black creators discussing racism lose posts as hate speech three times more often than others. Nobody has ever checked your classifier's error rate by group.
 
+## Why this scenario
+
+NIST's test of 189 face recognition algorithms from 99 developers found higher false-positive rates for Asian and African American faces in one-to-one matching, often by a factor of 10 to 100, depending on the algorithm. Source: [NIST face recognition test](https://www.nist.gov/news-events/news/2019/12/nist-study-evaluates-effects-race-age-sex-face-recognition-software), 2019.
+
+- **Social media & video:** A 2019 peer-reviewed study found that hate speech detection models labeled tweets written in African American English, and tweets by self-identified African Americans, as offensive up to two times more often than others. Source: [ACL 2019, Sap et al.](https://aclanthology.org/P19-1163/), 2019.
+- **Generative AI:** A 2025 peer-reviewed study found that reward models used to align large language models were 4% less accurate on average with African American Language than with White Mainstream English, and often dispreferred AAL texts. Source: [NAACL Findings 2025, Mire et al.](https://aclanthology.org/2025.findings-naacl.417/), 2025.
+- **Gig, delivery & rentals:** In 2024 the UK's equality regulator announced a financial settlement for a food delivery courier who alleged racially discriminatory facial recognition checks; he had been removed from the platform after a failed check and an automated process. Source: [UK Equality and Human Rights Commission](https://www.equalityhumanrights.com/news/news/uber-eats-courier-wins-payout-help-equality-watchdog-after-facing-problematic-ai-checks), 2024.
+
 _This scenario has 8 tailored versions, one per company type. The version below is written for social media & video companies; [play the others live](https://stevenmacchia.com/ts-workbench/#tabletop)._
 
 ## Decision 1 · Tue 09:00: A journalist's analysis

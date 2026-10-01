@@ -4,6 +4,10 @@
 
 > A live-in carer appears to be draining an 84-year-old customer's account, and she insists everything is fine.
 
+## Why this scenario
+
+US financial institutions filed 155,415 elder financial exploitation reports in one year (June 2022 to June 2023), covering roughly $27 billion in suspicious activity. About 20% involved theft by a trusted person, FinCEN found. Source: [FinCEN, elder financial exploitation analysis](https://www.fincen.gov/news/news-releases/fincen-issues-analysis-elder-financial-exploitation), 2024.
+
 ## Decision 1 · Mon 11:00: A worrying pattern
 
 An 84-year-old customer's account shows $38,000 in new cash withdrawals and transfers to a new payee over six weeks. A new phone number and email were added last month. The payee is her live-in carer.

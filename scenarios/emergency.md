@@ -4,6 +4,10 @@
 
 > Late on a Saturday, a teenager tells a handful of friends they will end their life tonight. Then police call asking for data, and they don't have a warrant.
 
+## Why this scenario
+
+In the second half of 2025, Snapchat received 3,081 emergency disclosure requests from US law enforcement and produced some data in 67.7% of them. Source: [Snap transparency report](https://values.snap.com/privacy/transparency/legal-requests-h2-2025), 2026.
+
 _This scenario has 8 tailored versions, one per company type. The version below is written for social media & video companies; [play the others live](https://stevenmacchia.com/ts-workbench/#tabletop)._
 
 ## Decision 1 · Sat 23:10: A report of imminent risk

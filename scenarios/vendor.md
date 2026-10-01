@@ -4,6 +4,12 @@
 
 > A typhoon shuts the site that handles most of your review work. 60% of your reviewers are gone for a week while harassment, hate and graphic-content reports pile up.
 
+## Why this scenario
+
+When the pandemic cut human review capacity in 2020, YouTube relied on automated systems: removals more than doubled versus the prior quarter, and the share of appealed videos reinstated rose from 25% to 50%. Source: [YouTube Official Blog](https://blog.youtube/inside-youtube/responsible-policy-enforcement-during-covid-19/), 2020.
+
+- **Social media & video:** Meta reported that after sending content reviewers home in March 2020, it took action on fewer pieces of suicide and self-injury content on Facebook and Instagram, and less child nudity and sexual exploitation on Instagram. Source: [Meta Community Standards Enforcement Report](https://about.fb.com/news/2020/08/community-standards-enforcement-report-aug-2020/), 2020.
+
 _This scenario has 8 tailored versions, one per company type. The version below is written for social media & video companies; [play the others live](https://stevenmacchia.com/ts-workbench/#tabletop)._
 
 ## Decision 1 · Mon 07:00: Your vendor goes dark

@@ -4,6 +4,10 @@
 
 > A toddler is hospitalized after swallowing magnets from a toy bought on your marketplace. The toy was recalled months ago.
 
+## Why this scenario
+
+In 2025 the EU's eSurveillance web crawler scanned over 1.6 million websites and found more than 20,800 products for sale online that were already listed as dangerous in the EU Safety Gate alert system. Source: [European Commission, Safety Gate report](https://ec.europa.eu/commission/presscorner/detail/en/ip_26_537), 2026.
+
 ## Decision 1 · Thu 08:00: A child is hurt
 
 A parent reports their toddler was hospitalized after swallowing small, powerful magnets from a toy bought on your marketplace. Regulators recalled the toy four months ago, and 300 listings from 40 sellers are still live.

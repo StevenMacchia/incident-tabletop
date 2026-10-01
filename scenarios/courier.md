@@ -4,6 +4,10 @@
 
 > A customer reports being assaulted by a courier. The courier's account turns out to have been rented to someone else.
 
+## Why this scenario
+
+The UK Home Office said in July 2025 that delivery platforms' crackdown on illegal account sharing had already led to thousands being offboarded. It also announced a deal for the platforms to detect shared accounts and suspend them faster. Source: [UK Home Office](https://www.gov.uk/government/news/new-operational-partnership-with-delivery-giants-to-combat-illegal-working), 2025.
+
 ## Decision 1 · Fri 22:00: A report from a customer
 
 A customer reports that the courier who delivered her order grabbed her at the door. The account belongs to a verified courier, but his photo doesn't match her description.

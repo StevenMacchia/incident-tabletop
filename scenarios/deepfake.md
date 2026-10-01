@@ -4,6 +4,10 @@
 
 > A realistic fake image of a candidate, apparently made with your model, goes viral days before an election.
 
+## Why this scenario
+
+OpenAI estimated that in the month before the 2024 US presidential election, ChatGPT rejected over 250,000 requests to generate DALL-E images of the presidential and vice-presidential candidates and President Biden. Source: [OpenAI](https://openai.com/index/how-openai-is-approaching-2024-worldwide-elections/), 2024.
+
 ## Decision 1 · Tue 07:00: A fake goes viral
 
 A realistic image of a presidential candidate in a compromising situation is spreading fast. Its style and metadata suggest your image model made it. Election day is Saturday.

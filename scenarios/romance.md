@@ -4,6 +4,10 @@
 
 > An organized ring is running romance and investment scams through your app with AI-generated profiles.
 
+## Why this scenario
+
+Cryptocurrency investment fraud cost Americans $7.2 billion in 2025, the largest source of losses the FBI recorded. Scammers often make first contact through dating apps or social media, then move victims to messaging apps. Source: [FBI IC3 Annual Report](https://www.ic3.gov/AnnualReport/Reports/2025_IC3Report.pdf), 2026.
+
 ## Decision 1 · Wed 10:00: Complaints spike
 
 Reports of users being pushed into crypto “investments” after weeks of chatting have tripled. Many suspect profiles use flawless AI-generated photos and near-identical opening lines.

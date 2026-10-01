@@ -4,6 +4,10 @@
 
 > A parent shares transcripts showing your chatbot roleplaying romance with their 15-year-old and mishandling a mention of self-harm.
 
+## Why this scenario
+
+In Thorn's late-2025 survey of US 9-17-year-olds, 1 in 9 of those who had used an AI chatbot or companion said they had used it for flirty, romantic or sexual conversations. Source: [Thorn, Youth Perspectives on Online Safety](https://info.thorn.org/hubfs/Research/Thorn_2025YouthPerspectives_Report.pdf), 2026.
+
 ## Decision 1 · Mon 09:00: A parent's transcripts
 
 A parent sends transcripts showing your chatbot roleplayed as a romantic partner with their 15-year-old, and failed to respond appropriately when the teen mentioned self-harm. The parent plans to go to the press.

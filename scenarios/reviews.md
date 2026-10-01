@@ -4,6 +4,10 @@
 
 > A competitor sends proof that a rival seller is paying for thousands of five-star reviews through a private group.
 
+## Why this scenario
+
+In December 2025 the FTC warned 10 companies about possible violations of its Consumer Review Rule on deceptive reviews. Each violation can bring a civil penalty of up to $53,088. Source: [US Federal Trade Commission](https://www.ftc.gov/news-events/news/press-releases/2025/12/ftc-warns-10-companies-about-possible-violations-agencys-new-consumer-review-rule), 2025.
+
 ## Decision 1 · Mon 10:00: A competitor's evidence
 
 A seller sends screenshots of a private group where people are paid $10, refunded after posting, for each five-star review of a rival seller's products. About 3,000 reviews look connected.

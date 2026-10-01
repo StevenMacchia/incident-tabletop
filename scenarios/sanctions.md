@@ -4,6 +4,10 @@
 
 > Customers have been sending money to crypto wallets that were just added to a sanctions list, and three transfers are pending.
 
+## Why this scenario
+
+In September 2025, OFAC settled with a crypto exchange that had no program to screen users or transactions for sanctions links. It had made 17,183 exchanges worth $12,570,956 with users in sanctioned countries. Source: [US Treasury, OFAC enforcement release](https://ofac.treasury.gov/media/934641/download?inline=), 2025.
+
 ## Decision 1 · Tue 08:00: A new sanctions listing
 
 Twelve crypto wallets were added to the US sanctions list overnight. Customers sent $2.4 million to two of them in the past month, and three transfers to them are pending right now.

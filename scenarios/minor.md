@@ -4,6 +4,10 @@
 
 > A member reports that their match says she's 15. The account has matched with 40 adults.
 
+## Why this scenario
+
+In Thorn's late-2025 survey of US 9-17-year-olds, about 1 in 6 (16%) said they had used a dating app, though these apps are built for adults. Source: [Thorn, Youth Perspectives on Online Safety](https://info.thorn.org/hubfs/Research/Thorn_2025YouthPerspectives_Report.pdf), 2026.
+
 ## Decision 1 · Thu 20:00: A report about age
 
 A member reports that their match said she's 15 and in high school. Your app is 18+ with self-declared ages. The account has matched with 40 adults and is chatting with several.

@@ -4,6 +4,12 @@
 
 > Journalists' posts criticizing a minister must come down in 24 hours, says a ministry. Your local staff are within reach of the police, and the law it cites could mean anything.
 
+## Why this scenario
+
+Freedom on the Net 2025 found people in at least 57 of 72 countries were arrested or imprisoned for online expression, a record high, and 69% of internet users live where political, social or religious content was blocked. Source: [Freedom House, Freedom on the Net](https://freedomhouse.org/sites/default/files/2025-11/Freedom_on_the_Net_2025_Digital.pdf), 2025.
+
+- **Generative AI:** Freedom House reports that AI governance frameworks in China and Vietnam require generative AI chatbots to follow the Communist Party line on sensitive topics. Source: [Freedom House, Freedom on the Net](https://freedomhouse.org/sites/default/files/2025-11/Freedom_on_the_Net_2025_Digital.pdf), 2025.
+
 _This scenario has 8 tailored versions, one per company type. The version below is written for social media & video companies; [play the others live](https://stevenmacchia.com/ts-workbench/#tabletop)._
 
 ## Decision 1 · Tue 09:00: An official order arrives

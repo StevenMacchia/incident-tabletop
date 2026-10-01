@@ -4,6 +4,10 @@
 
 > A researcher shows your “distance away” feature can pinpoint members' homes, including in countries where being gay is a crime.
 
+## Why this scenario
+
+Peer-reviewed security researchers who tested 15 location-based dating apps found that 6 of them let someone pinpoint a user's exact location (USENIX Security 2024). Source: [USENIX Security Symposium](https://www.usenix.org/conference/usenixsecurity24/presentation/dhondt), 2024.
+
 ## Decision 1 · Mon 08:00: A researcher's disclosure
 
 A security researcher shows that by checking the “distance away” figure from three fake locations, anyone can pinpoint a member's home to within 10 meters. Your app is widely used by LGBTQ people, including in countries where same-sex relationships are criminalized.

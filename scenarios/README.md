@@ -1,6 +1,6 @@
 # Scenario library
 
-37 scenarios, 93 versions in total once tailored versions are counted. Each has four timed decisions, the consequences of every option, the lesson and, where relevant, the law.
+43 scenarios, 99 versions in total once tailored versions are counted. Each has four timed decisions, the consequences of every option, the lesson and, where relevant, the law.
 
 | Scenario | Written for | Severity | Summary |
 |---|---|---|---|
@@ -41,6 +41,18 @@
 | [The listing that didn't exist](scenarios/fakelisting.md) | Gig, delivery & rentals | Sev 2 | Holiday travelers arrive at rentals that don't exist, after being talked into paying outside your platform. |
 | [The minister's critics](scenarios/takedown.md) | Every company type (tailored) | Sev 2 | Journalists' posts criticizing a minister must come down in 24 hours, says a ministry. Your local staff are within reach of the police, and the law it cites could mean anything. |
 | [The age gate countdown](scenarios/newlaw.md) | Every company type (tailored) | Sev 3 | You open to UK users in 90 days. The UK Online Safety Act's children's safety duties apply from launch, and nobody has started on age assurance or the children's risk assessment. |
+| [The gift card ultimatum](scenarios/sextortion.md) | Social media & video, Gaming, Kids & education | Sev 1 | Fake accounts posing as teenage girls target boys at one high school, get an image, then demand gift cards. Within hours, one boy posts that he wants to die. |
+| [The school photo edits](scenarios/aiimages.md) | Generative AI, Social media & video | Sev 1 | A school says your AI editing feature is being used to turn students' photos into sexualized images. Copies are already spreading beyond your app. |
+| [The guaranteed returns club](scenarios/investscam.md) | Fintech & payments | Sev 2 | Hundreds of customers are paying the same new accounts after a celebrity video ad promised guaranteed returns. The celebrity never made it, and the platform is fake. |
+| [The fourth complaint](scenarios/ridehail.md) | Gig, delivery & rentals | Sev 1 | At 2 a.m., a rider calls your safety line to report that her driver sexually assaulted her. By morning, you learn he had three earlier complaints nobody connected. |
+| [The video-call blackmail ring](scenarios/datingsextortion.md) | Dating | Sev 2 | A ring of fake profiles lures members to video chat, records them and demands money. One report leads to hundreds, and the network is still matching. |
+| [The bargains bought with stolen cards](scenarios/triangulation.md) | Marketplace & e-commerce | Sev 2 | Buyers love the cheap headphones and consoles. Then a big retailer's fraud team calls: the goods were bought with stolen cards, and the orders trace back to your sellers. |
+
+## Why these scenarios
+
+Each scenario dramatizes a kind of incident that public data shows is common, growing or a regulatory priority for that type of company. Every scenario file opens with a "Why this scenario" note: one fact, from a primary or authoritative public source (regulators, law enforcement, statutory child-protection bodies, peer-reviewed research and companies' own transparency reports), checked word for word against the source. Vendor marketing surveys are not used. Where no good data exists for the exact incident, the note uses the closest reliable evidence and says so in the wording.
+
+The incidents, companies and people in the scenarios are fictional. The evidence was last reviewed October 2026.
 
 ---
 

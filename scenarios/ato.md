@@ -4,6 +4,13 @@
 
 > Stolen passwords unlock creator accounts with millions of followers, and the first posts are crypto giveaways. Stop the attack, get creators back in, and decide who needs to know.
 
+## Why this scenario
+
+In June 2025 the UK's data regulator fined a genetic-testing firm £2.31 million after a credential-stuffing attack, using passwords stolen in unrelated breaches, exposed data on 155,592 UK residents. Source: [UK Information Commissioner's Office](https://ico.org.uk/about-the-ico/media-centre/news-and-blogs/2025/06/23andme-fined-for-failing-to-protect-uk-users-genetic-data/), 2025.
+
+- **Fintech & payments:** The FBI logged about 4,700 account takeover complaints with $359.7 million in losses in 2025. It says a single takeover can send 50 or more transfers to accounts at several banks at the same time. Source: [FBI IC3 Annual Report](https://www.ic3.gov/AnnualReport/Reports/2025_IC3Report.pdf), 2026.
+- **Marketplace & e-commerce:** UK fraud-prevention body Cifas recorded more than 78,000 account takeover cases in 2025, up 6% on 2024. Online retail accounts were the second most-targeted product, after mobile phones. Source: [Cifas, Fraudscape](https://www.cifas.org.uk/newsroom/fraudscape2026), 2026.
+
 _This scenario has 8 tailored versions, one per company type. The version below is written for social media & video companies; [play the others live](https://stevenmacchia.com/ts-workbench/#tabletop)._
 
 ## Decision 1 · Mon 06:40: Login failures spike

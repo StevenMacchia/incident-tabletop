@@ -4,6 +4,10 @@
 
 > A house booked for “a quiet family weekend” hosts a 200-person party that ends in a shooting.
 
+## Why this scenario
+
+Airbnb says its anti-party defenses blocked or redirected over 20,000 people from booking entire homes in the US over the July 4 holiday weekend in 2025. Source: [Airbnb newsroom](https://news.airbnb.com/airbnbs-anti-party-system-returns-for-july-4-weekend), 2026.
+
 ## Decision 1 · Sat 01:30: A shooting at a rental
 
 Police report a shooting at a 200-person party at a house booked through your platform for “a quiet family weekend”. Two people are injured. The booking was made yesterday by a 19-year-old with a new account.

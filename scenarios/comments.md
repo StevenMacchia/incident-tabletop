@@ -4,6 +4,10 @@
 
 > A researcher shows adults leaving predatory, timestamped comments on videos of young children, and recommendations feeding them more.
 
+## Why this scenario
+
+Meta reported that in 2025 its specialist teams removed nearly 135,000 Instagram accounts for leaving sexualized comments on, or requesting sexual images from, adult-managed accounts featuring children under 13. Source: [Meta newsroom](https://about.fb.com/news/2025/07/expanding-teen-account-protections-child-safety-features/), 2025.
+
 ## Decision 1 · Mon 08:00: A researcher's thread
 
 A researcher publishes a thread showing adults leaving timestamped comments on videos of young children doing gymnastics, and recommendations leading from one such video to the next.

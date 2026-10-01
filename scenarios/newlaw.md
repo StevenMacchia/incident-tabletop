@@ -4,6 +4,19 @@
 
 > You open to UK users in 90 days. The UK Online Safety Act's children's safety duties apply from launch, and nobody has started on age assurance or the children's risk assessment.
 
+## Why this scenario
+
+In 2025, over 45 US states and Puerto Rico introduced more than 300 bills on social media and children, and at least 20 states enacted new laws, according to the National Conference of State Legislatures. Source: [National Conference of State Legislatures](https://www.ncsl.org/technology-and-communication/social-media-and-children-2025-legislation), 2025.
+
+- **Social media & video:** From 25 July 2025, the UK Online Safety Act requires age checks such as facial scans or photo ID before children reach the most harmful content; fines reach 10% of global revenue or 18 million pounds, whichever is greater. Source: [GOV.UK](https://www.gov.uk/government/news/whats-changing-for-children-on-social-media-from-25-july-2025), 2025.
+- **Dating:** Under the UK Online Safety Act, in-scope services had to finish illegal-content risk assessments by 16 March 2025, and companies can be fined up to 18 million pounds or 10% of qualifying worldwide revenue, whichever is greater. Source: [GOV.UK, Online Safety Act explainer](https://www.gov.uk/government/publications/online-safety-act-explainer/online-safety-act-explainer), 2025.
+- **Generative AI:** The EU AI Act's transparency rules, which the European Commission said would take effect in August 2026, require that people using AI systems such as chatbots be told they are interacting with a machine. Source: [European Commission, AI Act](https://digital-strategy.ec.europa.eu/en/policies/regulatory-framework-ai), 2026.
+- **Kids & education:** The FTC's January 2025 update to the COPPA Rule requires separate verifiable parental consent before sharing children's data with third parties for targeted advertising, limits data retention, and gives companies one year to comply. Source: [US Federal Trade Commission](https://www.ftc.gov/news-events/news/press-releases/2025/01/ftc-finalizes-changes-childrens-privacy-rule-limiting-companies-ability-monetize-kids-data), 2025.
+- **Fintech & payments:** Since October 2025, EU instant payment rules require payment providers to offer payee verification, so a payee's name must match the IBAN; the European Commission says this helps prevent mistakes and scams. Source: [European Commission](https://finance.ec.europa.eu/news/new-eu-rules-make-instant-euro-payments-faster-and-safer-2025-10-10_en), 2025.
+- **Marketplace & e-commerce:** The EU General Product Safety Regulation requires online marketplaces active in the EU to register in the Safety Gate Portal and name a single point of contact; more than 1,200 had registered by the end of 2025. Source: [European Commission](https://commission.europa.eu/news-and-media/news/increased-action-against-dangerous-products-eu-2025-2026-03-09_en), 2026.
+- **Gaming:** Brazil's Digital Statute of Children and Adolescents (ECA Digital) bans loot boxes in games for children and teenagers, the Brazilian Senate's news service reported in March 2026. Source: [Brazilian Senate news service](https://www12.senado.leg.br/radio/1/noticia/2026/03/27/eca-digital-proibe-rolagem-infinita-e-caixa-de-recompensa-em-games-infantojuvenis), 2026.
+- **Gig, delivery & rentals:** The EU Platform Work Directive, adopted in 2024, gives people working through platforms the right to an explanation of any decision taken or supported by an automated system, without undue delay. Source: [EU Platform Work Directive](https://data.consilium.europa.eu/doc/document/PE-89-2024-INIT/en/pdf), 2024.
+
 _This scenario has 8 tailored versions, one per company type. The version below is written for social media & video companies; [play the others live](https://stevenmacchia.com/ts-workbench/#tabletop)._
 
 ## Decision 1 · Day 1: 90 days to comply
