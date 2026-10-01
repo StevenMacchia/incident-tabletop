@@ -1,14 +1,14 @@
-# The insider lookup
+# The DMs nobody reported
 
 **Sev 2** · Social network · For: Every company type (tailored)
 
-> A contractor on your review team has been looking up private messages and location history for people who were never in a review queue.
+> A support agent says a contractor on your review team has been reading private messages and location history for people who never hit a queue, including the contractor's ex-partner.
 
 _This scenario has 8 tailored versions, one per company type. The version below is written for social media & video companies; [play the others live](https://stevenmacchia.com/ts-workbench/#tabletop)._
 
 ## Decision 1 · Wed 14:00: A tip from inside
 
-A support agent reports that a contractor on your review team has been looking up private messages and location history for people who were never in a review queue, apparently including the contractor's ex-partner.
+A support agent messages you privately. A contractor on the review team has been pulling private messages and location history for accounts that were never in any queue. The agent saw a map of check-ins on the contractor's screen and recognized the name: it was the contractor's ex-partner. The contractor is on shift right now.
 
 A. Ask the contractor's manager to have a word.  
    _What happens:_ The contractor clears their history and keeps looking up records for two more days.
@@ -23,7 +23,7 @@ C. Fire the contractor and close the matter.
 
 ## Decision 2 · Thu 10:00: The logs tell a story
 
-The logs show 214 users were looked up over six months, including the contractor's ex-partner. There's no sign data left your systems, but screenshots can't be ruled out.
+Security has pulled the access logs overnight. The contractor looked up 214 users over six months, including the ex-partner, whose location history was opened 40 times. Nothing was exported or forwarded from your systems, but the tool shows full message threads on screen, so screenshots can't be ruled out. The ex-partner once reported the contractor for harassment on your platform.
 
 A. **Contact the contractor's ex-partner first, with safety support, then notify all 214 affected users and regulators where required.** ✅ strongest call  
    _What happens:_ The person most at risk gets support quickly, and notifications meet legal deadlines.
@@ -40,7 +40,7 @@ C. Send a generic security email to every user.
 
 ## Decision 3 · Fri 09:00: How was this possible?
 
-Your review tools let any agent search any user by name, and nobody reviews access logs.
+You walk through the review tool with Engineering. Any agent can type any name into the search bar and open that user's inbox and location history, whether or not the account is in a queue. Access logs exist, but nobody reads them; this one surfaced only because a colleague spoke up. Most of your review workforce is contractors.
 
 A. Keep broad access, but make agents sign a policy.  
    _What happens:_ The same thing happens next quarter.
@@ -55,7 +55,7 @@ C. **Limit each agent to the cases in their queue, require a reason for any othe
 
 ## Decision 4 · Week 3: The vendor question
 
-The contractor worked for your moderation vendor, and the contract has no audit rights.
+The contractor was employed by your moderation vendor, not by you. Procurement finds the contract: it covers price, volume and accuracy targets, but says nothing about background checks, access controls or your right to audit. The vendor's account manager emails to say they have 'handled it internally'.
 
 A. **Add security requirements, audit rights and breach-notification duties to the contract, and audit the vendor this quarter.** ✅ strongest call  
    _What happens:_ The vendor agrees, and the audit finds two more gaps to fix.

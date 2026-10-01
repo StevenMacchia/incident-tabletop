@@ -1,14 +1,14 @@
-# The Saturday night emergency
+# The post six friends saw
 
 **Sev 1** · Social network · For: Every company type (tailored)
 
-> Late on a Saturday, a teenager posts that they will end their life tonight, in a post seen only by a few friends. Police then call asking for data without a warrant.
+> Late on a Saturday, a teenager tells a handful of friends they will end their life tonight. Then police call asking for data, and they don't have a warrant.
 
 _This scenario has 8 tailored versions, one per company type. The version below is written for social media & video companies; [play the others live](https://stevenmacchia.com/ts-workbench/#tabletop)._
 
 ## Decision 1 · Sat 23:10: A report of imminent risk
 
-It's late on a Saturday: a teenager posts that they will end their life tonight, in a post seen only by a few friends. You only know the person's location to city level.
+It's 23:10 on a Saturday, and a 16-year-old has posted to a friends-only audience that they will end their life tonight. Two friends reported it within minutes, and the weekend reviewer notes that the post technically breaks your self-harm policy. The full safety team is off until Monday, and you only know the person's location to city level.
 
 A. **Follow your imminent-risk protocol: show crisis resources, escalate to your on-call lead, and refer to emergency services with the information you hold.** ✅ strongest call  
    _What happens:_ Police carry out a welfare check within the hour. The person is safe and gets support.
@@ -23,7 +23,7 @@ C. Suspend the account for breaking the self-harm policy.
 
 ## Decision 2 · Sat 23:40: Police want more
 
-Police call your emergency line asking for the account's phone number, IP address and recent location data, without a warrant.
+At 23:40 a police officer calls your emergency line. They've spoken to one of the friends and have the account name, but no address. They ask for the account's phone number, IP address and recent location data, and say there's no time to get a warrant. The account also holds four years of private messages.
 
 A. Refuse everything without a court order.  
    _What happens:_ Police lose valuable time trying to find the person.
@@ -40,7 +40,7 @@ C. Hand over everything on the account, including message history.
 
 ## Decision 3 · Sun 10:00: Looking after your team
 
-The agent who handled the case is shaken. It's their third serious case this month.
+It's Sunday morning. The weekend reviewer who handled the case messages you to say they didn't sleep. It's their third serious case this month, and they're due back on the self-harm queue at noon. Legal has offered to 'just take these from now on.'
 
 A. Thank them and put them back on the queue.  
    _What happens:_ They go on sick leave two weeks later.
@@ -55,7 +55,7 @@ C. **Offer a debrief and counseling, give them time away from high-severity queu
 
 ## Decision 4 · Week 2: Making the protocol real
 
-Your review finds the protocol worked, but only because a senior person happened to be online.
+Two weeks on, your review finds the protocol worked, but only because your head of safety happened to be online at 23:10 on a Saturday. The reviewer had never been trained on it, and police found your emergency line through a web search.
 
 A. **Set up a staffed 24/7 on-call rotation, train agents to spot imminent risk, and register an emergency contact channel with police in advance.** ✅ strongest call  
    _What happens:_ The next case is handled in minutes, on a holiday weekend.

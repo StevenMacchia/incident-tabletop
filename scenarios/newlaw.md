@@ -1,14 +1,14 @@
-# The new law
+# The age gate countdown
 
 **Sev 3** · Social network · For: Every company type (tailored)
 
-> You launch in a market covered by the UK Online Safety Act's children's safety duties in 90 days, and nobody has started on compliance.
+> You open to UK users in 90 days. The UK Online Safety Act's children's safety duties apply from launch, and nobody has started on age assurance or the children's risk assessment.
 
 _This scenario has 8 tailored versions, one per company type. The version below is written for social media & video companies; [play the others live](https://stevenmacchia.com/ts-workbench/#tabletop)._
 
 ## Decision 1 · Day 1: 90 days to comply
 
-You launch in a market covered by the UK Online Safety Act's children's safety duties in 90 days. You'll need to complete a children's risk assessment and use highly effective age assurance to keep children away from the most harmful content. Nobody has started.
+You open to UK users in 90 days, and the UK Online Safety Act's children's safety duties apply at launch. Your only age check is a birth-date field. You must complete a children's risk assessment and use highly effective age assurance to keep children away from the most harmful content. Ofcom has promised more guidance, engineering wants a ticket list, and nobody has started.
 
 A. Wait for the regulator to publish more detailed guidance.  
    _What happens:_ Guidance arrives with 30 days to go, and everything is rushed.
@@ -25,7 +25,7 @@ C. **Run a gap assessment against each requirement, give every gap an owner, and
 
 ## Decision 2 · Day 30: The product trade-off
 
-Product says age checks and safer feeds for teens will cut engagement by 5% and asks to do the bare minimum.
+Product has modelled age checks and safer feeds for teens. Their estimate: engagement drops 5%, mostly from under-18s who bounce off the age check. They ask for the bare minimum, the cheapest check that passes and a teen feed that differs by one filter, so the launch date holds. Legal is nervous; the growth team is louder.
 
 A. **Design it to meet the law's intent, measure the impact honestly, and look for ways to reduce friction.** ✅ strongest call  
    _What happens:_ The impact ends up at 2%, and the design holds up to review.
@@ -42,7 +42,7 @@ C. Delay the launch in that market.
 
 ## Decision 3 · Day 70: The paper trail
 
-Ofcom can ask for evidence of how you comply.
+Ofcom can ask for evidence of how you comply: the children's risk assessment, how you chose your age assurance method, and whether it works. Right now the decisions live in chat threads and a slide deck. A consultancy has offered to write everything up after launch. An engineer says the product itself is the proof.
 
 A. Rely on the product itself as evidence.  
    _What happens:_ When asked, you can't show how decisions were made.
@@ -59,7 +59,7 @@ C. Have consultants write documentation after launch.
 
 ## Decision 4 · Day 90+: After the deadline
 
-You've launched. What keeps you compliant from here?
+You've launched. The age check is live and teen feeds are calmer. Next quarter's roadmap includes live streaming and a new recommendation model. What keeps you compliant from here?
 
 A. Treat the project as finished.  
    _What happens:_ Six months later, product changes have quietly broken compliance.

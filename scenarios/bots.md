@@ -1,14 +1,14 @@
-# The bot army
+# The sock puppet surge
 
 **Sev 2** · Social network · For: Every company type (tailored)
 
-> 40,000 fake accounts sign up overnight to push coordinated political spam.
+> 40,000 new accounts appear overnight and start pushing the same political line. Stop the inflow, find the real people among them, and fix the growth numbers they inflated.
 
 _This scenario has 8 tailored versions, one per company type. The version below is written for social media & video companies; [play the others live](https://stevenmacchia.com/ts-workbench/#tabletop)._
 
 ## Decision 1 · Tue 02:00: A sign-up spike
 
-Sign-ups jumped tenfold overnight: 40,000 new accounts from rotating IP addresses, many with similar names. By morning they're being used to push coordinated political spam.
+Sign-ups jumped tenfold overnight: 40,000 new accounts from rotating IP addresses, many with near-identical handles and the same stock profile photos. A promotion for your new creator fund went live yesterday, so some are real. By morning the accounts are reposting the same three political slogans and flooding replies under news posts. Nobody has decided whether to act or keep watching.
 
 A. Delete all 40,000 accounts.  
    _What happens:_ About 3,000 real people who signed up overnight are deleted too.
@@ -23,7 +23,7 @@ C. Wait to see what the accounts do.
 
 ## Decision 2 · Tue 11:00: Separating real from fake
 
-Your team needs to work out which of the 40,000 accounts are real.
+The 40,000 overnight accounts are still there, and your team has to work out which are real. Four reviewers are free today. The data team says most of the accounts share a few dozen device fingerprints, signed up in bursts of a few hundred, and post within minutes of each other. About a third came through data-center IP ranges; the rest look residential.
 
 A. **Group accounts by device, network, sign-up timing and behavior, remove confirmed bot clusters, and give real people an easy way to verify.** ✅ strongest call  
    _What happens:_ 37,000 bot accounts are removed in a day, and real people verify in seconds.
@@ -38,7 +38,7 @@ C. Remove every account created from a data-center IP address.
 
 ## Decision 3 · Wed 10:00: They adapt
 
-The attackers switch to slower sign-ups through residential proxies and pay humans to solve your challenges.
+The operator has adapted. New accounts now trickle in at a few hundred an hour through residential proxies, and each one passes your sign-up challenge. Your fraud analyst finds the challenges are being farmed out to paid human solvers. The accounts stay quiet for a day, then boost the same slogans, and a day-old account gets the same reach in feeds as anyone else.
 
 A. Put the hardest possible challenge in front of every new user.  
    _What happens:_ Bots still get through with paid solvers, and real sign-ups fall 20%.
@@ -53,7 +53,7 @@ C. **Focus on behavior after sign-up: limit what new accounts can do until they 
 
 ## Decision 4 · Week 2: Counting the cost
 
-Finance wants to know the damage, and marketing wants to know why its growth numbers were wrong.
+Finance wants a number for the damage: reviewer hours, ad impressions served to fakes, and the creator fund payouts that nearly went out. Marketing wants to know why last week's record sign-up chart was wrong, since they already showed it to the board. The growth team's promotion is the obvious target.
 
 A. Leave the bot accounts in the user numbers.  
    _What happens:_ Investors later question the numbers.

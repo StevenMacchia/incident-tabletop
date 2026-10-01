@@ -1,14 +1,14 @@
-# The biased-enforcement story
+# The counter-speech takedowns
 
 **Sev 2** · Social network · For: Every company type (tailored)
 
-> A journalist's analysis suggests Black creators discussing racism are three times more likely to have posts removed as hate speech.
+> A journalist's analysis says Black creators discussing racism lose posts as hate speech three times more often than others. Nobody has ever checked your classifier's error rate by group.
 
 _This scenario has 8 tailored versions, one per company type. The version below is written for social media & video companies; [play the others live](https://stevenmacchia.com/ts-workbench/#tabletop)._
 
 ## Decision 1 · Tue 09:00: A journalist's analysis
 
-A journalist shares an analysis suggesting Black creators discussing racism are three times more likely than others to have posts removed as hate speech. They want comment by Thursday.
+A national reporter emails your press team. They matched 2,000 removal notices from Black creators against a comparison set: posts discussing racism by Black creators are three times more likely than others to be removed as hate speech. They want comment by Thursday. Your hate-speech classifier removes posts automatically above a confidence threshold, and it takes no profile or identity data as input.
 
 A. **Take it seriously: reproduce the analysis with your own data, involve policy, data science and people with lived experience, and tell the journalist you're looking into it.** ✅ strongest call  
    _What happens:_ Within two days you confirm a real gap and can explain it honestly.
@@ -23,7 +23,7 @@ C. Pause all automated enforcement.
 
 ## Decision 2 · Wed 15:00: The cause
 
-Your analysis confirms it: a model trained on skewed labels is wrongly flagging Black creators discussing racism far more often than others.
+Your data science team reproduces it. The hate-speech model was trained on labels where reviewers marked any post quoting a slur as hate speech, whether it attacked someone or described an attack. Black creators recounting abuse they received are flagged far more often than others. Overall precision looks fine on the dashboard, and about 12,000 accounts carry strikes from these removals, some now suspended.
 
 A. Quietly retrain the model and say nothing.  
    _What happens:_ The journalist publishes anyway and notes you didn't engage.
@@ -38,7 +38,7 @@ C. Keep the model: overall accuracy is fine.
 
 ## Decision 3 · Thu 12:00: The response
 
-The story is ready to publish.
+Thursday noon. The reporter sends the draft's key findings and a final request for comment by 5pm. Your reproduction matches their numbers almost exactly. Comms wants to know whether you challenge the sample, say nothing, or go on the record.
 
 A. Question the journalist's methods.  
    _What happens:_ It looks defensive, and your own data supports them.
@@ -53,7 +53,7 @@ C. **Confirm the finding, explain the cause and the fix, and commit to publishin
 
 ## Decision 4 · Month 2: Catching it first
 
-The board asks how you'll catch this before a journalist does.
+At the quarterly board meeting, a director asks why a reporter found this before you did, and how you'll catch the next one first. The next hate-speech model ships in six weeks.
 
 A. **Test enforcement outcomes by group before launching models and regularly afterwards, and involve affected communities in policy design.** ✅ strongest call  
    _What happens:_ The next model is caught with a gap before launch, and fixed.

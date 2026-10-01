@@ -1,14 +1,14 @@
-# The account takeover wave
+# The crypto giveaway hijack
 
 **Sev 2** · Social network · For: Every company type (tailored)
 
-> Attackers use leaked passwords to break into creator accounts with large followings. Their goal: posting crypto scams to millions of followers.
+> Stolen passwords unlock creator accounts with millions of followers, and the first posts are crypto giveaways. Stop the attack, get creators back in, and decide who needs to know.
 
 _This scenario has 8 tailored versions, one per company type. The version below is written for social media & video companies; [play the others live](https://stevenmacchia.com/ts-workbench/#tabletop)._
 
 ## Decision 1 · Mon 06:40: Login failures spike
 
-Overnight, failed logins jumped 40-fold, and 3,000 creators say they were locked out or saw activity they didn't recognize. Attackers are trying passwords leaked from other sites, aiming at posting crypto scams to millions of followers.
+Overnight, failed logins jumped 40-fold, most from one proxy network cycling through passwords leaked from other sites. By 06:40, 3,000 creators say they are locked out or see posts they never made. Where the attackers got in, they are posting crypto giveaway links to millions of followers. Your on-call lead asks whether to pull logins entirely.
 
 A. Force password resets only for accounts that report problems.  
    _What happens:_ Attackers keep getting into accounts whose owners haven't noticed yet.
@@ -23,7 +23,7 @@ C. Take login offline for everyone until the attack stops.
 
 ## Decision 2 · Mon 11:00: The damage is done
 
-About 1,100 creator accounts with large followings were taken over before the block. Victims want their accounts back, and what was taken.
+About 1,100 creator accounts with large followings were taken over before the block. Attackers changed recovery emails, pinned scam posts, and some followers have already sent money. Creators are flooding support from new emails and backup accounts, demanding access back and the scam posts gone. A few are already telling the story on a rival app.
 
 A. Restore any account whose owner emails support.  
    _What happens:_ Attackers email support too, and take over the same accounts again.
@@ -38,7 +38,7 @@ C. **Restore accounts after proper identity checks, reverse what can be reversed
 
 ## Decision 3 · Tue 09:00: Do you have to tell anyone?
 
-Legal asks whether this counts as a personal data breach. Attackers could see names, contact details and account history for affected creators.
+Legal asks whether this counts as a personal data breach. Attackers could see names, contact details, direct messages and account history for affected creators, and some had business email and phone on file. Scope is still moving, since reviewers keep finding more hijacked accounts. One executive argues the passwords were real, so this is the creators' problem, not yours.
 
 A. **Assess it against breach-notification rules with Legal, notify regulators where required, and tell affected creators what happened and what to do.** ✅ strongest call  
    _What happens:_ Notifications go out on time, and regulators note the prompt response.
@@ -55,7 +55,7 @@ C. Announce a major breach publicly before you know the scope.
 
 ## Decision 4 · Week 2: Making it harder next time
 
-Leadership asks what will stop this happening again.
+Leadership asks what will stop this happening again. Big creators are asking the same thing in public, and two have threatened to take their audiences elsewhere. Security wants everyone on two-step login by tomorrow; Product worries that locks out the casual users who make up most of your daily traffic.
 
 A. Require stronger passwords.  
    _What happens:_ Attackers use leaked passwords that meet the new rules.

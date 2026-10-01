@@ -21,12 +21,12 @@
 | [The hidden camera](scenarios/camera.md) | Gig, delivery & rentals | Sev 2 | A guest finds a hidden camera in a rental bedroom and posts the video. It has millions of views, and the host has 40 other listings. |
 | [The image in the class chat](scenarios/classroom.md) | Kids & education | Sev 1 | A student shares an explicit image of a classmate in your app's class chat. Teachers and parents want answers. |
 | [The comment section problem](scenarios/comments.md) | Kids & education, Social media & video | Sev 1 | A researcher shows adults leaving predatory, timestamped comments on videos of young children, and recommendations feeding them more. |
-| [The account takeover wave](scenarios/ato.md) | Every company type (tailored) | Sev 2 | Attackers use leaked passwords to break into creator accounts with large followings. Their goal: posting crypto scams to millions of followers. |
-| [The insider lookup](scenarios/insider.md) | Every company type (tailored) | Sev 2 | A contractor on your review team has been looking up private messages and location history for people who were never in a review queue. |
-| [The Saturday night emergency](scenarios/emergency.md) | Every company type (tailored) | Sev 1 | Late on a Saturday, a teenager posts that they will end their life tonight, in a post seen only by a few friends. Police then call asking for data without a warrant. |
-| [The bot army](scenarios/bots.md) | Every company type (tailored) | Sev 2 | 40,000 fake accounts sign up overnight to push coordinated political spam. |
-| [The vendor goes dark](scenarios/vendor.md) | Every company type (tailored) | Sev 2 | A typhoon takes your moderation vendor's main site offline. 60% of your reviewers are gone for a week and reports of harassment, hate and graphic content are piling up. |
-| [The biased-enforcement story](scenarios/bias.md) | Every company type (tailored) | Sev 2 | A journalist's analysis suggests Black creators discussing racism are three times more likely to have posts removed as hate speech. |
+| [The crypto giveaway hijack](scenarios/ato.md) | Every company type (tailored) | Sev 2 | Stolen passwords unlock creator accounts with millions of followers, and the first posts are crypto giveaways. Stop the attack, get creators back in, and decide who needs to know. |
+| [The DMs nobody reported](scenarios/insider.md) | Every company type (tailored) | Sev 2 | A support agent says a contractor on your review team has been reading private messages and location history for people who never hit a queue, including the contractor's ex-partner. |
+| [The post six friends saw](scenarios/emergency.md) | Every company type (tailored) | Sev 1 | Late on a Saturday, a teenager tells a handful of friends they will end their life tonight. Then police call asking for data, and they don't have a warrant. |
+| [The sock puppet surge](scenarios/bots.md) | Every company type (tailored) | Sev 2 | 40,000 new accounts appear overnight and start pushing the same political line. Stop the inflow, find the real people among them, and fix the growth numbers they inflated. |
+| [The empty review floor](scenarios/vendor.md) | Every company type (tailored) | Sev 2 | A typhoon shuts the site that handles most of your review work. 60% of your reviewers are gone for a week while harassment, hate and graphic-content reports pile up. |
+| [The counter-speech takedowns](scenarios/bias.md) | Every company type (tailored) | Sev 2 | A journalist's analysis says Black creators discussing racism lose posts as hate speech three times more often than others. Nobody has ever checked your classifier's error rate by group. |
 | [The recalled toy](scenarios/recall.md) | Marketplace & e-commerce | Sev 1 | A toddler is hospitalized after swallowing magnets from a toy bought on your marketplace. The toy was recalled months ago. |
 | [The review factory](scenarios/reviews.md) | Marketplace & e-commerce | Sev 2 | A competitor sends proof that a rival seller is paying for thousands of five-star reviews through a private group. |
 | [The sanctions near-miss](scenarios/sanctions.md) | Fintech & payments | Sev 2 | Customers have been sending money to crypto wallets that were just added to a sanctions list, and three transfers are pending. |
@@ -39,8 +39,8 @@
 | [The cloned voice](scenarios/voiceclone.md) | Generative AI | Sev 1 | Your voice tool was used to clone a teenager's voice for a fake kidnapping call to her parents. |
 | [The party house](scenarios/partyhouse.md) | Gig, delivery & rentals | Sev 1 | A house booked for “a quiet family weekend” hosts a 200-person party that ends in a shooting. |
 | [The listing that didn't exist](scenarios/fakelisting.md) | Gig, delivery & rentals | Sev 2 | Holiday travelers arrive at rentals that don't exist, after being talked into paying outside your platform. |
-| [The takedown order](scenarios/takedown.md) | Every company type (tailored) | Sev 2 | A government orders you to remove posts by journalists criticizing a government minister within 24 hours, citing a vague national security law. |
-| [The new law](scenarios/newlaw.md) | Every company type (tailored) | Sev 3 | You launch in a market covered by the UK Online Safety Act's children's safety duties in 90 days, and nobody has started on compliance. |
+| [The minister's critics](scenarios/takedown.md) | Every company type (tailored) | Sev 2 | Journalists' posts criticizing a minister must come down in 24 hours, says a ministry. Your local staff are within reach of the police, and the law it cites could mean anything. |
+| [The age gate countdown](scenarios/newlaw.md) | Every company type (tailored) | Sev 3 | You open to UK users in 90 days. The UK Online Safety Act's children's safety duties apply from launch, and nobody has started on age assurance or the children's risk assessment. |
 
 ---
 

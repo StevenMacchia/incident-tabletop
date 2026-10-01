@@ -1,14 +1,14 @@
-# The takedown order
+# The minister's critics
 
 **Sev 2** · Social network · For: Every company type (tailored)
 
-> A government orders you to remove posts by journalists criticizing a government minister within 24 hours, citing a vague national security law.
+> Journalists' posts criticizing a minister must come down in 24 hours, says a ministry. Your local staff are within reach of the police, and the law it cites could mean anything.
 
 _This scenario has 8 tailored versions, one per company type. The version below is written for social media & video companies; [play the others live](https://stevenmacchia.com/ts-workbench/#tabletop)._
 
 ## Decision 1 · Tue 09:00: An official order arrives
 
-A ministry in a country where you have local staff orders you to remove posts by journalists criticizing a government minister within 24 hours. It cites a broadly worded national security law and hints at “consequences” for your staff.
+Your country manager forwards a letter from the interior ministry. It lists 14 posts by three journalists criticizing a government minister and orders you to remove them within 24 hours. It cites a national security law written broadly enough to cover any criticism, and notes that "responsible persons" at your local office may face consequences. Your country manager asks what to tell her team.
 
 A. Comply immediately and in full to protect your staff.  
    _What happens:_ The demands expand the following week, and users learn you complied quietly.
@@ -25,7 +25,7 @@ C. Ignore it.
 
 ## Decision 2 · Tue 16:00: Protecting people
 
-Legal says the order is overbroad, but your local staff face real risk.
+By 16:00 Legal has read the order. The law covers content that incites violence; two of the 14 posts arguably do, the other twelve are ordinary criticism, and the order says nothing about territory. Your country manager reports two plainclothes officers in the lobby of the local office, and one reviewer has had a visit at home. The team asks whether they are safe.
 
 A. Remove it worldwide to avoid trouble.  
    _What happens:_ People everywhere lose access to legitimate posts, and you're criticized for censorship.
@@ -42,7 +42,7 @@ C. **Restrict access only in that country and only where the law clearly applies
 
 ## Decision 3 · Wed 10:00: Telling the people affected
 
-The people whose posts are affected don't know about the order.
+You have geo-restricted two posts in the country and filed a challenge against the rest. The three journalists have not been told, and one has already posted that her story "vanished" and asked her followers whether you took a bribe. Her editor has emailed your press inbox, and nothing in the order forbids you from telling them.
 
 A. **Tell them what was restricted and why, unless the law forbids it, and explain how they can challenge it.** ✅ strongest call  
    _What happens:_ They can challenge the decision, and trust holds.
@@ -59,7 +59,7 @@ C. Post the order publicly on social media.
 
 ## Decision 4 · Month 2: Being accountable
 
-Civil-society groups ask how you handle government demands.
+Two months on, a coalition of press-freedom and digital-rights groups writes to ask how many government orders you received last year, how you handled them, and whether this one was among them. A reporter has the same questions. Nobody outside your company knows the order existed.
 
 A. Keep government requests confidential.  
    _What happens:_ A leak reveals both the requests and your silence.

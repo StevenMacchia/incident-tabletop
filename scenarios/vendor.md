@@ -1,14 +1,14 @@
-# The vendor goes dark
+# The empty review floor
 
 **Sev 2** · Social network · For: Every company type (tailored)
 
-> A typhoon takes your moderation vendor's main site offline. 60% of your reviewers are gone for a week and reports of harassment, hate and graphic content are piling up.
+> A typhoon shuts the site that handles most of your review work. 60% of your reviewers are gone for a week while harassment, hate and graphic-content reports pile up.
 
 _This scenario has 8 tailored versions, one per company type. The version below is written for social media & video companies; [play the others live](https://stevenmacchia.com/ts-workbench/#tabletop)._
 
 ## Decision 1 · Mon 07:00: Your vendor goes dark
 
-A typhoon has shut your moderation vendor's main site. 60% of your reviewers are offline for at least a week, and reports of harassment, hate and graphic content are piling up.
+A typhoon has shut your moderation vendor's main site overnight. 60% of your reviewers are offline for at least a week. Reports of harassment, hate and graphic content are piling up in the shared queue, with child-safety and threat reports mixed in among them. Your in-house team and the vendor's smaller second site are still working, and your classifiers are still flagging.
 
 A. Keep working through reports in the order they arrive.  
    _What happens:_ Some child-safety and threat reports wait two days behind low-risk reports.
@@ -23,7 +23,7 @@ C. **Triage by severity: move your in-house team and remaining vendor staff onto
 
 ## Decision 2 · Mon 12:00: The vendor's people
 
-The vendor's staff are safe, but many have lost power or their homes. The vendor asks whether you'll keep paying during the shutdown.
+By midday the vendor confirms its staff are safe, but many have lost power and some have lost their homes. Reviewers who handled your graphic-content queue for years are sleeping in shelters. The vendor's account manager asks a direct question: will you keep paying the contract while the site is shut?
 
 A. **Keep paying the contract and ask how you can support the staff.** ✅ strongest call  
    _What happens:_ Staff return sooner, and more of them stay afterwards.
@@ -40,7 +40,7 @@ C. Ask the vendor to move its staff to another city right away.
 
 ## Decision 3 · Wed 09:00: The backlog grows
 
-The low-severity backlog has reached 400,000 items, and people are complaining that their reports go unanswered.
+The low-severity backlog has reached 400,000 items: name-calling, mild harassment, borderline hate speech. People are posting screenshots of their unanswered reports, and a creator with a large following says your report button does nothing. Your engineers point out that your classifiers already score most of these cases with high confidence.
 
 A. Close all old reports without action.  
    _What happens:_ People feel ignored, and some harmful content stays up.
@@ -55,7 +55,7 @@ C. Pull engineers and product managers onto the queue.
 
 ## Decision 4 · Week 3: Never again
 
-Leadership asks how to stop depending on a single site.
+Three weeks on, the vendor's site is partly back and the backlog is shrinking. Leadership asks how you stop one typhoon, one city, from taking out most of your moderation capacity again. Finance has already asked what the outage cost you.
 
 A. Bring all moderation in-house immediately.  
    _What happens:_ Costs triple, and hiring takes a year.
