@@ -2,7 +2,7 @@
 
 > **When something goes badly wrong, would your team make the right calls in the right order?**
 
-37 crisis scenarios across 8 types of company. Make four timed decisions as each incident unfolds. Every weaker choice shows what happens next, what strong incident command looks like, and the law behind it. Play solo, or run it live with your team: roles, a timer for each decision, discussion prompts, a full-screen presenter view, and an after-action report with owned action items you can send to your tracker.
+43 crisis scenarios across 8 types of company. Make four timed decisions as each incident unfolds. Every weaker choice shows what happens next, what strong incident command looks like, and the law behind it. Play solo, or run it live with your team: roles, a timer for each decision, discussion prompts, a full-screen presenter view, and an after-action report with owned action items you can send to your tracker.
 
 **[Try it live](https://stevenmacchia.com/ts-workbench/#tabletop)** · part of [T&S Workbench](https://github.com/stevenmacchia/ts-workbench) · free, no sign-up
 
@@ -24,7 +24,7 @@ The tool's knowledge, published as open content you can read, reuse and adapt.
 
 | File | What it is |
 |---|---|
-| [`scenarios/`](scenarios/) | 37 scenarios (93 versions including tailored ones), each with every option, its consequence, the lesson and the law |
+| [`scenarios/`](scenarios/) | 43 scenarios (99 versions including tailored ones), each with every option, its consequence, the lesson and the law |
 | [`data/scenarios.json`](data/scenarios.json) | All versions as JSON |
 
 ## Use it for
